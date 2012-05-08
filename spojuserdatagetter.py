@@ -4,12 +4,11 @@ import os
 import string
 import re
 import getspojDB
-def main():
-  print "Enter Your SPOJ User ID:"
-  username=raw_input()
+def getter(username):
   url="http://www.spoj.pl/status/"+username+"/signedlist/"
   userpage=urllib.urlopen(url).read().split('\n')
-  PROBLEMS=[]
+  ACCED={}
+  WAED={}
   enabledata=0
   for line in userpage:
        if enabledata==1 and "\----------------------------------" in line:
@@ -20,11 +19,18 @@ def main():
            data=line
            data=data.replace("|"," ")
            data=data.split()
-           print data
+           if(len(data)>=5):
+              if data[4] == "AC" or data[4].isdigit():
+                  ACCED[data[3]]=1
+                  WAED[data[3]]=0
+              elif data[3] in WAED:
+                  WAED[data[3]]=WAED[data[3]]+1
        if "BEGIN OF DATA" in line:
            print "Reading Data"
        if "ID" in line and "DATE" in line and  "PROBLEM" in line and  "RESULT" in line and  "TIME" in line:
            enabledata=1
+  for prob in WAED:
+      print "ACCEPTED ",prob," AFTER ",WAED[prob]," tries!"
            
 if __name__=='__main__':
-  main()
+  getter("jujojujo_2003")
