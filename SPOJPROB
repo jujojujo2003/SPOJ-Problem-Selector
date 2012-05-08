@@ -1,0 +1,2186 @@
+1|Life, the Universe, and Everything|TEST|31338|36.72
+2|Prime Generator|PRIME1|7535|13.20
+3|Substring Check (Bug Funny)|SBSTR1|284|11.28
+4|Transform the Expression|ONP|7134|51.10
+5|The Next Palindrome|PALIN|4567|15.76
+6|Simple Arithmetics|ARITH|976|14.05
+7|The Bulk!|BULK|209|32.28
+8|Complete the Sequence!|CMPLS|983|36.18
+9|Direct Visibility|DIRVS|143|17.52
+10|Complicated Expressions|CMEXPR|430|29.49
+11|Factorial|FCTRL|10023|45.46
+12|The Game of Master-Mind|MMIND|137|46.87
+13|Hotline|HOTLINE|116|32.32
+14|I-Keyboard|IKEYB|449|37.90
+15|The Shortest Path|SHPATH|972|16.59
+16|Sphere in a tetrahedron|TETRA|737|50.15
+17|The Bytelandian Cryptographer (Act I)|CRYPTO1|403|31.91
+18|The Bytelandian Cryptographer (Act II)|CRYPTO2|463|38.55
+19|The Bytelandian Cryptographer (Act III)|CRYPTO3|86|39.67
+20|The Bytelandian Cryptographer (Act IV)|CRYPTO4|28|8.14
+22|Triangle From Centroid|TRICENTR|579|37.61
+23|Pyramids|PIR|1456|36.37
+24|Small factorials|FCTRL2|8336|33.53
+25|Pouring water|POUR1|976|18.40
+26|Build the Fence|BSHEEP|594|28.59
+27|Sorting Bank Accounts|SBANK|1679|26.74
+28|Help the Military Recruitment Office!|HMRO|283|12.79
+29|Hash it!|HASHIT|990|23.66
+30|Bytelandian Blingors Network|BLINNET|848|30.51
+31|Fast Multiplication|MUL|522|13.14
+32|A Needle in the Haystack|NHAY|1374|32.95
+33|Trip|TRIP|481|19.43
+34|Run Away|RUNAWAY|143|31.78
+35|Equipment Box|EQBOX|478|14.35
+36|Secret Code|CODE1|140|29.87
+37|The Proper Key|PROPKEY|115|23.94
+38|Labyrinth|LABYR1|1165|24.93
+39|Piggy-Bank|PIGBANK|1804|33.60
+40|Lifting the Stone|STONE|656|21.13
+41|Play on Words|WORDS1|1205|19.97
+42|Adding Reversed Numbers|ADDREV|11649|48.94
+43|Copying Books|BOOKS1|692|25.73
+44|Substitution Cipher|SCYPHER|218|15.81
+45|Commedia dell Arte|COMMEDIA|139|47.51
+47|Skyscraper Floors|SCRAPER|198|17.49
+48|Glass Beads|BEADS|1175|40.80
+49|Hares and Foxes|HAREFOX|82|16.94
+50|Invitation Cards|INCARDS|425|37.76
+51|Fake tournament|TOUR|406|19.77
+54|Julka|JULKA|4882|31.18
+55|Jasiek|JASIEK|255|26.30
+56|Dyzio|DYZIO|699|32.94
+57|Supernumbers in a permutation|SUPPER|433|32.61
+58|Crime at Piccadily Circus|PICAD|430|14.86
+59|Bytelandian Information Agency|BIA|171|14.86
+60|The Gordian Dance|DANCE|56|19.59
+61|Brackets|BRCKTS|749|18.42
+62|The Imp|IMP|188|30.35
+63|Square Brackets|SQRBR|854|56.37
+64|Permutations|PERMUT1|1161|52.51
+65|Ball|BALL1|109|47.65
+66|Cross-country|CRSCNTRY|842|60.85
+67|Cutting out|CUTOUT|205|44.35
+68|Expression|EXPR1|117|39.35
+69|Moulds|MOULDS|80|36.33
+70|Relations|RELATS1|191|31.70
+71|Tree|TREE1|334|29.98
+73|Bacterial|BAC|62|24.19
+74|Divisor Summation|DIVSUM|4297|20.10
+75|Editor|EDIT1|38|47.83
+76|Editor Inverse|EDIT2|60|24.36
+77|New bricks disorder|BRICKS|148|34.17
+78|Marbles|MARBLES|1751|30.05
+82|Easy Problem|EASYPIE|356|35.70
+83|Bundling|BUNDLE|22|34.25
+84|Shortcut|SHORTCUT|170|33.01
+85|Dice Contest|DICE1|34|30.69
+86|November Rain|RAIN1|178|17.31
+87|Football|FOOTBALL|44|29.76
+88|Which is Next|TREE2|112|32.37
+89|Hang or not to hang|HANGLET|63|22.56
+90|Minimizing maximizer|MINIMAX|271|30.96
+91|Two squares or not two squares|TWOSQRS|1435|22.98
+92|Cutting off Squares|CUTSQRS|181|46.29
+94|Numeral System of the Maya|MAYA|1577|40.01
+95|Street Parade|STPAR|2580|32.19
+96|Shopping|SHOP|968|44.31
+97|Party Schedule|PARTY|1554|33.99
+98|Dance Floor|DFLOOR|377|39.41
+99|Bus|BUS|146|21.67
+100|Tower of Babylon|BABTWR|884|51.70
+101|Fishmonger|FISHER|623|41.22
+102|GX Light Pipeline Inc|LITEPIPE|66|33.78
+104|Highways|HIGH|329|29.90
+105|Alice and Bob|ALICEBOB|148|31.14
+106|Binary Stirling Numbers|BINSTIRL|859|35.87
+107|Calendar of the Maya|MAYACAL|106|57.58
+108|Decoding Morse Sequences|MORSE|331|29.82
+109|Exchanges|EXCHNG|109|52.03
+110|Fill the Cisterns|CISTFILL|476|37.07
+112|Horizontally Visible Segments|SEGVIS|121|33.02
+115|Family|FAMILY|58|16.67
+116|Intervals|INTERVAL|250|32.50
+118|Rhombs|RHOMBS|66|52.05
+119|Servers|SERVERS|92|21.80
+120|Solitaire|SOLIT|251|25.96
+121|Timetable|TTABLE|44|17.79
+122|Voracious Steve|STEVE|204|35.45
+123|Paying in Byteland|PAYING|330|55.10
+130|Rent your airplane and make money|RENT|630|24.79
+131|Square dance|SQDANCE|208|49.73
+132|Help R2-D2!|HELPR2D2|263|27.32
+134|Phony Primes|PHONY|170|17.79
+135|Men at work|MAWORK|176|40.65
+136|Transformation|TRANS|80|44.94
+137|Partition|PARTIT|406|41.55
+138|Election Posters|POSTERS|431|26.24
+139|The Long and Narrow Maze|MAZE|172|24.55
+140|The Loner|LONER|125|24.65
+142|Johnny and the Glue|GLUE|71|45.95
+145|Aliens|ALIENS|221|35.26
+146|Fast Multiplication Again|MULTIPLY|34|39.39
+147|Tautology|TAUT|343|46.95
+148|Land for Motorways|MLAND|73|40.64
+149|Fencing in the Sheep|FSHEEP|77|12.66
+150|Where to Drink the Plonk?|PLONK|408|36.01
+151|The Courier|COURIER|237|44.39
+153|Balancing the Stone|SCALES|203|40.81
+154|Sweet and Sour Rock|ROCK|827|44.52
+160|Choosing a Palindromic Sequence|PALSEC|92|36.97
+174|Paint templates|PAINTTMP|57|45.39
+175|Polygon|POLY1|78|31.46
+176|Sum of one-sequence|SUM1SEQ|492|35.19
+177|AB-words|ABWORDS|4|0.34
+178|Road net|ROADNET|1133|50.85
+179|Word equations|WORDEQ|164|26.08
+180|How to pack containers|CONTPACK|96|43.73
+181|Scuba diver|SCUBADIV|761|30.31
+182|Window|WINDOW1|47|35.91
+183|Assembler circuits|ASCIRC|56|33.15
+184|Automatic Teller Machines|ATMS|179|38.83
+185|Chase|CHASE1|147|28.67
+186|The lightest language|LITELANG|85|28.22
+187|Flat broken lines|FLBRKLIN|80|48.75
+188|Rectangles|RECTNG1|159|29.84
+196|Musketeers|MUSKET|250|30.37
+199|Empty Cuboids|EMPTY|126|37.18
+200|Monodigital Representations|MONODIG|107|35.81
+201|The Game of Polygons|POLYGAME|213|40.34
+202|Rockets|ROCKETS|47|12.68
+203|Potholers|POTHOLE|647|26.00
+204|Sleepwalker|SLEEP|85|34.83
+205|Icerink|ICERINK|8|15.15
+206|Bitmap|BITMAP|1838|24.37
+207|Three-coloring of binary trees|THREECOL|443|37.25
+208|Store-keeper|STORE|73|16.77
+209|The Map|MAP|189|44.18
+210|The Altars|ALTARS|37|17.36
+211|Primitivus recurencis|PRIMIT|160|25.00
+212|Water among Cubes|WATER|360|28.39
+215|Panic in the Plazas|PANIC|56|20.27
+217|Soldiers on Parade|SOPARADE|112|29.02
+220|Relevant Phrases of Annihilation|PHRASES|271|37.15
+224|Vonny and her dominos|VONNY|228|48.30
+226|Jewelry and Fashion|JEWELS|13|19.32
+227|Ordering the Soldiers|ORDERS|617|32.81
+228|Shamans|SHAMAN|104|21.40
+229|Sorting is easy|SORTING|100|30.62
+231|The Zebra Crossing|ZEBRA|3|1.51
+234|Getting Rid of the Holidays (Act I)|HOLIDAY1|74|16.30
+235|Very Fast Multiplication|VFMUL|82|11.82
+236|Converting number formats|ROMAN|140|45.58
+237|Sums in a Triangle|SUMITR|1431|33.24
+238|Getting Rid of the Holidays (Act II)|HOLIDAY2|50|16.90
+239|Tour de Byteland|BTOUR|83|28.85
+241|Arranging the Blocks|BLOCKS|42|14.63
+243|Stable Marriage Problem|STABLEMP|613|44.27
+245|Square Root|SQRROOT|325|19.72
+247|Chocolate|CHOCOLA|1079|46.04
+260|Containers|CTAIN|218|49.26
+261|Triangle Partitioning|TRIPART|171|62.90
+262|Connections|CONNECT|85|27.65
+263|Period|PERIOD|429|40.79
+264|Corporative Network|CORNET|186|32.90
+272|Cave Exploration|CAVE|25|17.58
+274|Johnny and the Watermelon Plantation|WMELON|112|29.04
+275|The Water Ringroad|WATERWAY|3|16.13
+277|City Game|CTGAME|538|38.21
+278|Bicycle|BICYCLE|59|16.92
+279|Interesting number|INUMBER|287|21.39
+280|Lifts|LIFTS|39|21.74
+282|Muddy Fields|MUDDY|359|34.37
+283|Naptime|NAPTIME|126|41.77
+286|Selfish Cities|SCITIES|295|44.40
+287|Smart Network Administrator|NETADMIN|192|22.35
+288|Prime or Not|PON|820|19.78
+290|Polynomial Equations|POLYEQ|56|24.37
+291|Cube Root|CUBERT|149|20.40
+292|Alibaba|ALIBB|124|23.47
+293|Officers on the Beat|OFBEAT|8|9.01
+296|Teamwork is Crucial|TWORK|47|33.79
+297|Aggressive cows|AGGRCOW|1401|43.70
+300|Cable TV Network|CABLETV|236|43.97
+301|Booklets|BOOK|159|45.10
+302|Count on Cantor|CANTON|3486|60.76
+303|The Unstable Cube|UCUBE|46|32.89
+309|The Room Pattern|RATTERN|46|18.36
+318|Pythagorean Legacy|PITPAIR|27|32.67
+325|The Tall Windmills|WINDMILL|111|49.13
+327|Platon and Socrates|PLATON|48|14.04
+328|Bishops|BISHOPS|2376|29.56
+329|Calls|CALLS|107|29.64
+332|Hard Question|HARDQ|98|33.66
+334|The Philosophical Dispute|PHDISP|53|46.63
+336|Exchange Operations|EOPERA|56|23.76
+338|Roads|ROADS|475|31.56
+339|Recursive Sequence|SEQ|546|62.30
+344|Poker|POKER|651|40.20
+345|Mixtures|MIXTURES|1175|38.47
+346|Bytelandian gold coins|COINS|3277|28.30
+347|Lazy Cows|LAZYCOWS|150|33.16
+348|Expedition|EXPEDI|360|27.26
+349|Around the world|AROUND|77|34.34
+350|Landscaping|LANDSCAP|91|35.40
+351|Ha-noi!|HAN01|324|46.30
+359|Alpha Centauri Tennis|ACT|658|42.24
+362|Ignore the Garbage|IGARB|319|44.80
+364|Pocket Money|LISA|534|33.25
+365|Phidias|PHIDIAS|400|45.60
+366|Farmer|FARMER|184|21.87
+367|Empodia|EMPODIA|127|30.84
+368|Cobbled streets|CSTREET|953|48.49
+369|Math I|MATH1|84|28.99
+370|Ones and zeros|ONEZERO|597|23.62
+371|Boxes|BOXES|318|34.70
+372|The Benefactor|BENEFACT|602|40.13
+373|Greedy island|GREED|194|27.39
+374|Count maximum matrices|MATRIX|186|24.14
+375|Query on a tree|QTREE|658|21.68
+376|A concrete simulation|ACS|958|33.94
+377|Taxi|TAXI|392|27.26
+379|Ambiguous Permutations|PERMUT2|3286|56.55
+380|Bullshit Bingo|BINGO|561|34.66
+381|106 miles to Chicago|CHICAGO|1024|39.65
+382|Decorate the wall|DECORATE|206|36.21
+383|European railroad tracks|EUROPEAN|215|32.92
+384|Any fool can do it|FOOL|341|35.76
+385|Game schedule required|GAME|144|30.57
+386|Help the problem setter|HELP|97|50.00
+387|Travelling tours|TOURS|216|56.10
+388|Menu|MENU|266|34.82
+389|Use of Hospital Facilities|HOSPITAL|38|11.67
+390|Billiard|BILLIARD|596|54.08
+391|Railroads|RAILROAD|78|21.86
+392|Spin|SPIN|30|26.92
+393|Hexagon|HEXAGON|61|62.16
+394|Alphacode|ACODE|2738|24.40
+395|Anti-prime Sequences|APRIME|276|56.65
+396|Hit or Miss|HITOMISS|119|49.13
+397|I Conduit|CONDUIT|130|22.57
+398|Roll Playing Games|RPGAMES|112|14.64
+399|Team Rankings|TRANK|343|56.81
+400|To and Fro|TOANDFRO|5230|58.24
+401|Translations|TRANSL|114|39.27
+402|Hike on a Graph|HIKE|467|44.20
+403|Sort fractions|FRACTION|455|23.35
+404|Scanner|SCANNER|53|12.66
+405|Tin Cutter|TCUTTER|119|36.32
+406|Logic|LOGIC|95|25.67
+407|Random Number|RNUMBER|39|43.59
+408|Jill Rides Again|JRIDE|663|36.02
+409|DEL Command|DELCOMM|65|18.59
+410|Variable Radix Huffman Encoding|VHUFFM|69|25.40
+411|Number of quite different words|NUMQDW|177|36.20
+412|K-path cover|COVER|142|20.10
+413|Word Puzzles|WPUZZLES|182|19.53
+414|Equatorial Bonfire|BONFIRE|65|39.53
+416|Divisibility by 15|DIV15|717|15.04
+417|The lazy programmer|LAZYPROG|173|18.89
+418|Necklace|NECKLACE|38|22.92
+419|Transposing is Fun|TRANSP|120|41.62
+421|Another Road Problem|AROAD|63|27.06
+422|Transposing is Even More Fun|TRANSP2|105|33.95
+423|Assignments|ASSIGN|798|33.31
+425|Kill evil instantly|HAJIME|100|9.28
+428|Particular Palindromes|PARTPALI|280|31.93
+449|Simple Numbers with Fractions Conversion|TCNUMFL|32|19.45
+479|Permutation generator|TPERML|110|32.72
+481|Roots of polynomial|KMSL4B|33|44.44
+515|Collatz|CLTZ|225|61.94
+518|Zig-Zag Permutation|ZZPERM|7|55.56
+526|Divisors|DIV|381|42.16
+530|Divisors 2|DIV2|252|54.27
+598|Increasing Subsequences|INCR|128|35.21
+660|Dungeon of Death|QUEST4|467|43.29
+661|Nail Them|QUEST5|417|44.10
+665|String it out|SUBS|468|40.47
+666|Con-Junctions|VOCV|257|45.29
+676|Sorting is not easy|LSORT|283|44.46
+677|A place for the brewery|BROW|181|29.10
+681|Building the Tower|HANOI07|59|21.45
+682|Pairs of Integers|PAIRINT|182|29.15
+684|Another Assignment Problem|ASSIGN4|98|14.04
+685|Partition the sequence|SEQPAR|145|23.19
+687|Repeats|REPEATS|332|35.88
+688|Toy Cars|SAM|255|21.61
+693|Lethal Warfare|LWAR|321|47.03
+694|Distinct Substrings|DISUBSTR|1188|29.50
+695|Unite Fast|UFAST|128|31.10
+696|Liar Liar|LIAR|174|51.13
+697|Matrix Words|MWORDS|96|28.05
+698|Plane Hopping|PLHOP|216|26.95
+699|Huge Knap Sack|HKNAP|116|30.11
+700|Branch Prediction|BPRED|75|19.10
+702|Barn Expansion|EXPAND|133|30.54
+703|Mobile Service|SERVICE|238|25.54
+704|Remove The String|PSTRING|173|13.48
+705|New Distinct Substrings|SUBST1|906|34.17
+707|Triple-Free Sets|TFSETS|140|43.01
+709|The day of the competitors|NICEDAY|413|27.67
+726|Promotion|PRO|626|25.76
+729|Move your armies|MAXIMUS|82|23.54
+733|Mountain Walking|MTWALK|489|26.15
+734|Ivan and his interesting game|IVAN|207|34.68
+735|Minimum Diameter Spanning Tree|MDST|111|36.09
+738|Another Counting Problem|TREE|192|45.35
+739|The Moronic Cowmpouter|NEG2|1578|49.87
+740|Treats for the Cows|TRT|1300|36.47
+741|Steady Cow Assignment|STEAD|169|29.79
+744|Longest Permutation|LPERMUT|416|20.00
+757|Thermal Luminescence|TEM|113|43.56
+760|Convex Hull 3D|CH3D|55|30.65
+764|Delay-noise Analysis|MIS|56|25.80
+780|The Archipelago|ARCHPLG|14|19.15
+827|Trigonometric optimization|TRIOPT|44|36.14
+839|Optimal Marks|OPTM|340|25.85
+850|Soccer Choreography|WM06|0|0.00
+861|Counting inversions|SWAPS|197|22.94
+866|DNA Translation|DNA|102|22.58
+867|Perfect Cubes|CUBES|938|47.24
+869|Galactic Import|IMPORT|113|54.35
+870|Basically Speaking|BASE|929|44.65
+871|Letter Sequence Analysis|SEQUENCE|58|43.09
+872|Mark-up|MARKUP|85|26.65
+898|Transmitters|TRANSMIT|185|50.12
+899|Ws Cipher|WSCIPHER|533|40.25
+900|Split Windows|SPLIT|27|70.00
+901|Index Generation|INDEXGEN|36|60.00
+902|Hangover|HANGOVER|3193|62.86
+903|Double Vision|DOUBLEVI|56|64.71
+904|Image Perimeters|IMAGE|260|69.17
+912|Submatrix of submatrix|MATRIX2|122|27.86
+913|Query on a tree II|QTREE2|637|23.31
+944|Free Tour|FTOUR|19|4.76
+962|Intergalactic Map|IM|209|19.20
+964|Entrapment|EN|181|25.36
+967|Parking Bay|PB|346|46.93
+972|Birthday|BIRTHDAY|107|25.56
+987|Mobile|MOBILE|68|18.44
+996|Continuous Fractions|CFRAC|213|43.59
+999|Generalized Matrioshkas|MATRIOSH|287|37.45
+1000|Equidivisions|EQDIV|349|23.79
+1001|Babylonian Roulette|BROUL|275|54.78
+1002|Uncle Jack|UJ|1201|38.56
+1003|Little Quilt|QUILT|93|47.18
+1004|Polygon Encoder|POLYCODE|63|11.50
+1021|Aibohphobia|AIBOHP|999|29.36
+1022|Angels and Devils|ANGELS|235|26.01
+1024|Complete Chess Boards|COMCB|355|56.79
+1025|Fashion Shows|FASHION|3977|44.40
+1026|Favorite Dice|FAVDICE|946|72.05
+1027|Fool the Police|FPOLICE|511|32.52
+1028|Hubulullu|HUBULLU|1412|57.03
+1029|Matrix Summation|MATSUM|771|16.61
+1030|Triple Fat Ladies|EIGHTS|2917|49.60
+1031|Up Subsequence|UPSUB|343|34.67
+1043|Can you answer these queries I|GSS1|1072|20.47
+1108|Card Trick|CTRICK|491|45.92
+1110|Sudoku|SUDOKU|102|40.40
+1112|Number Steps|NSTEPS|4923|51.24
+1161|Tic-Tac-Toe ( I )|TOE1|931|21.68
+1162|Tic-Tac-Toe ( II )|TOE2|772|31.52
+1163|Java vs C &#43&#43|JAVAC|1970|22.47
+1166|Dead Fraction|DEADFR|186|25.11
+1167|Move To Invert|MINCOUNT|1054|29.19
+1182|Sorted bit squence|SORTBIT|165|46.29
+1183|Accomodate the palace|PALACE|326|49.17
+1267|Origin of Life|ORIGLIFE|38|25.79
+1268|CN Tower (Easy)|CNEASY|694|28.86
+1269|CN Tower (Hard)|CNHARD|19|12.37
+1270|Paint By Numbers|PNTBYNUM|22|26.36
+1285|Continuous Fractions Again|CFRAC2|244|45.86
+1296|4 values whose sum is 0|SUMFOUR|1086|21.64
+1325|Partial Sums|PARTSUM|164|25.67
+1326|A Chase In WonderLand|CHASE|141|11.45
+1329|Matrix|KPMATRIX|227|17.98
+1335|Maze|KPMAZE|32|24.34
+1391|Summing to a Square Prime|CZ_PROB1|420|54.89
+1417|University Employees|EMP|1716|66.71
+1418|The Cats and the Mouse|CATM|647|33.83
+1419|A Game with Numbers|NGM|1852|61.16
+1420|Geometry and a Square|GEOM|218|41.11
+1421|Goods|FIRM|112|32.32
+1431|Projections Of A Polygon|KPPOLY|40|13.35
+1433|The Sum|KPSUM|147|23.50
+1434|Equation|KPEQU|244|37.70
+1435|Vertex Cover|PT07X|672|32.91
+1436|Is it a tree|PT07Y|1832|31.46
+1437|Longest path in a tree|PT07Z|1437|40.43
+1440|Use of Function Arctan|ARCTAN|274|24.15
+1441|The Clever Typist|CLEVER|30|9.45
+1442|Strange Food Chain|CHAIN|121|26.53
+1444|DEL Command II|DELCOMM2|16|10.40
+1447|A Game of Toy Bricks|BRCKGAME|43|50.00
+1448|3D Cover|COVER2|75|29.46
+1451|01 Sequence|SEQ1|82|39.04
+1452|Birthday Cake|CAKE|50|26.64
+1453|Optimal Connected Subset|OPTSUB|132|48.77
+1454|Memory Distribution|MEMDIS|19|18.11
+1455|Program Analyser|ANALYSER|23|23.70
+1456|The Secret of a Lost City|LOSTCT|17|34.69
+1457|Help Blue Mary Please! (Act I)|BLUEEQ|4|5.48
+1458|Help Blue Mary Please! (Act II)|BLUEEQ2|46|19.02
+1459|The Secret of an Aerolite|AEROLITE|84|42.35
+1460|A Simple Calculator in the Galaxy|GALAXY|21|46.34
+1461|Greedy Hydra|DRAGON|99|35.74
+1462|Barbarians|BARB|36|13.19
+1463|Robot Number M|ROBOT|60|55.86
+1464|Editor II|EDIT3|54|21.27
+1465|On the Way to Find Chris|CHRIS|59|25.67
+1466|Blue Mary Needs Help Again|CASHIER|133|23.40
+1468|Outside it is now raining|RAIN2|26|25.47
+1470|Another Sequence Problem|SEQ2|98|26.00
+1471|A Game of Pearls|PRLGAME|34|36.81
+1472|Tom and Jerry|TOMJERRY|47|42.86
+1473|Lemon Tree in the Moonlight|LEMON|18|29.23
+1475|VII - Act IV|WORMS|46|46.34
+1476|Maximum Profit|PROFIT|162|31.40
+1477|Play with a Tree|PT07A|60|14.81
+1478|The Easiest Problem|PT07B|90|14.99
+1479|The GbAaY Kingdom|PT07C|46|16.75
+1480|Let us count 1 2 3|PT07D|34|11.99
+1482|A short vacation in Disneyland|PT07F|121|21.24
+1483|Colorful Lights Party|PT07G|10|11.38
+1484|Search in XML|PT07H|6|2.65
+1487|Query on a tree III|PT07J|183|14.45
+1488|Balloons of JiaJia|PT07K|0|0.00
+1505|Whac-a-Mole|MOLE|43|21.16
+1526|Ranklist Sorting|RSORTING|23|31.65
+1536|Help Blue Mary Please! (Act III)|BLUEEQ3|34|23.81
+1538|Making Jumps|MKJUMPS|192|49.66
+1552|Mobiles|MOBILE2|107|38.41
+1553|Backup Files|BACKUP|125|27.08
+1554|Zoo|ZOO|81|40.23
+1557|Can you answer these queries II|GSS2|310|26.46
+1644|Trees|TREEOI14|37|18.22
+1671|Another Mathematical Problem|AMATH|49|14.74
+1672|The Great Indian Wedding|GIWED|43|43.00
+1673|Ambitious Manager|AMBM|217|35.33
+1674|The Explosion|EXPLOSN|111|31.68
+1675|Fusion Cube|FUSION|72|61.48
+1676|Text Generator|GEN|115|22.18
+1677|Halloween treats|HALLOW|389|42.51
+1678|Royal Treasury|TREASURY|53|17.00
+1681|Cylinder|CYLINDER|403|40.86
+1683|Expressions|EXPRESS|259|49.65
+1684|Frequent values|FREQUENT|547|28.47
+1685|Grocery store|GROCERY|117|19.88
+1687|Logic II|LOGIC2|20|15.23
+1688|A Very Easy Problem!|EASYPROB|1832|44.50
+1689|Hard Problem|HARDP|12|52.00
+1693|Coconuts|COCONUTS|155|32.20
+1695|Grandpa&#8217;s Rubik Cube|GRC|98|63.78
+1696|Will Indiana Jones Get There|WIJGT|78|38.66
+1697|Ohgas&#39 Fortune|OFORTUNE|284|67.08
+1698|Polygonal Line Search|PLSEARCH|130|71.14
+1699|Numeral System|NSYSTEM|1189|70.98
+1700|Traveling by Stagecoach|TRSTAGE|97|34.31
+1701|Earth Observation with a Mobile Robot Team|EOWAMRT|7|47.37
+1702|Cleaning Robot|CLEANRBT|356|50.15
+1703|ACM (ACronymMaker)|ACMAKER|291|33.95
+1704|Countdown|CDOWN|150|29.31
+1705|The Game of Efil|GAMEFIL|87|51.23
+1706|Queens, Knights and Pawns|QKP|354|53.21
+1707|Reliable Nets|RELINETS|150|37.26
+1708|Square Count|SQCOUNT|75|38.08
+1709|Swamp Things|SWTHIN|216|43.66
+1710|Two Ends|TWENDS|645|45.09
+1712|Permalex|PRMLX|139|20.42
+1713|Funny scales|SCALE|260|37.10
+1715|Another Necklace Problem|NCKLCE|44|25.65
+1716|Can you answer these queries III|GSS3|783|54.72
+1722|Life, the Universe, and Everything II|RP|54|40.43
+1723|Bee Maja|BMJ|331|52.27
+1724|Counting Triangles|TRICOUNT|2346|31.32
+1725|The Importance|IMPORT1|86|44.02
+1726|Exchange|EXCHANGE|22|13.00
+1728|Common Permutation|CPRMT|1318|46.11
+1729|Guess the Number|NUMGUESS|829|21.82
+1730|Counting Triangles II|TCOUNT2|177|18.84
+1731|Counting Triangles III|TCOUNT3|103|29.29
+1739|Yet Another Equation|EQU2|141|40.77
+1741|Tetris 3D|TETRIS3D|54|40.00
+1744|Evaluate the polynomial|POLEVAL|1130|44.71
+1748|Sequence Partitioning II|SEQPAR2|43|34.92
+1754|Divisor Summation (Hard)|DIVSUM2|164|13.05
+1771|Yet Another N-Queen Problem|NQUEEN|227|29.77
+1772|Find The Determinant II|DETER2|42|26.44
+1774|All Discs Considered|ALL|242|32.25
+1775|Boolean Logic|BOOLE|60|46.63
+1776|DNA Laboratory|DNALAB|64|19.40
+1784|IOICamp Sequence|ICAMPSEQ|211|12.57
+1785|Code|CODE|136|40.18
+1786|In Danger|DANGER|1124|52.29
+1787|Run Length Encoding|ENCONDIN|517|17.12
+1788|Fractan|FRACTAN|38|35.29
+1789|Huffman´s Greed|GREEDULM|69|50.65
+1790|Binary Search Heap Construction|HEAPULM|117|24.13
+1793|Text Generater II|GEN2|48|36.00
+1794|Greedy Hydra II|DRAGON2|35|18.21
+1797|Cardsharper|CARD|0|0.00
+1798|Assistance Required|ASSIST|951|44.43
+1799|The Bottom of a Graph|BOTTOM|289|33.64
+1800|Fixed Partition Contest Management|CONTEST|64|47.27
+1801|Drink, on Ice|DRINK|357|44.71
+1802|Edge|EDGE|354|62.83
+1803|Fold|FOLD|58|53.91
+1804|Genetic Code|GENETIC|215|49.20
+1805|Largest Rectangle in a Histogram|HISTOGRA|893|30.39
+1810|Nuclear Plants|ORZ|11|20.71
+1811|Longest Common Substring|LCS|102|9.36
+1812|Longest Common Substring II |LCS2|33|10.00
+1815|Problems Collection (Volume X)|WA|24|7.45
+1825|Free tour II|FTOUR2|182|16.98
+1833|Sudoku|SUDOKU2|45|41.46
+1835|The SetStack Computer|SETSTACK|117|34.77
+1837|Pie|PIE|568|38.89
+1838|Ticket to Ride|TICKET|53|45.39
+1839|The Bookcase|BOOKCASE|87|39.66
+1840|Printer Queue|PQUEUE|813|53.19
+1841|Prime Path|PPATH|875|60.69
+1842|Lineland Airport|LINELAND|33|25.00
+1843|Leonardo Notebook|LEONARDO|231|37.48
+1845|Mice and Maze|MICEMAZE|713|40.75
+1846|Project File Dependencies|PFDEP|591|48.19
+1847|No Change|NOCHANGE|406|35.38
+1865|Making Waves|MKWAVES|139|44.04
+1866|Making Pals|MKPALS|157|45.19
+1868|Making Money|MKMONEY|547|35.90
+1869|Making Mountains Out Of Molehills|MKMOOM|14|18.56
+1870|Making Labels|MKLABELS|857|58.54
+1871|Making A Budget|MKBUDGET|207|51.08
+1873|Accumulate Cargo|ACARGO|76|29.77
+1874|Burrows Wheeler Precompression|BWHEELER|273|42.96
+1875|Cool Numbers|COOLNUMS|106|37.47
+1876|Dragon Curves|DRAGONCU|135|59.29
+1877|Enrich my purse|EPURSE|142|33.73
+1878|Farmers Cattle|FCATTLE|58|41.94
+1879|Game Time|GAMETIME|101|27.88
+1880|Hanoi Calls|HANOICAL|174|57.75
+1881|Instruction Decoder|ICODER|519|51.86
+1960|Rectangles|RECTANGL|97|17.29
+1961|Roman Roads|ROMANRDS|85|31.79
+1962|Circles|CIRCLES|44|22.26
+1963|Image Projections|IMGPROJ|94|39.51
+1964|Tree cut|MMCUT|129|41.74
+1965|Set Cover|SETCOV|35|21.03
+1966|Ski Valley|SKIVALL|108|19.94
+1991|Another Continuous Fractions Problem|ACFRAC|63|20.32
+2000|Boxes (Hard)|BOX|5|2.48
+2002|Random Number Generator|RNG|56|44.72
+2005|Minus Operation|MINUS|98|35.98
+2006|Load Balancing|BALIFE|225|58.80
+2007|Another Very Easy Problem! WOW!!!|COUNT|284|39.13
+2008|Dab of Backpack|BACKPACK|173|25.56
+2009|Cryptography|CRYPTO|35|3.00
+2019|The Rolling Ball|ROLLBALL|2|14.29
+2021|Moving Pebbles|PEBBMOV|71|19.04
+2022|Truth Or Lie|TRUTHORL|96|25.05
+2023|One Instruction Computer Simulator|ONEINSTR|7|17.07
+2031|Please help You-Know-Who|YKH|33|41.82
+2038|Rectangle Tiling|TILING|80|45.55
+2047|Stone Removing Game|REMGAME|78|40.81
+2050|Strange Billboard|CERC07B|290|65.08
+2051|Cell Phone|CERC07C|77|33.82
+2052|Hexagonal Parcels|CERC07H|58|40.99
+2053|Key Task|CERC07K|341|35.75
+2054|Gates of Logic|CERC07L|31|38.89
+2055|Weird Numbers|CERC07N|283|35.22
+2056|Rectangular Polygon|CERC07P|108|53.62
+2058|Reaux! Sham! Beaux!|CERC07R|487|35.85
+2059|Robotic Sort|CERC07S|104|25.66
+2060|Tough Water Level|CERC07W|29|26.74
+2070|Minimum Distance|MINDIST|67|21.40
+2123|Candy I|CANDY|3771|42.75
+2124|Last Non-Zero Digit of Factorials|FCTRL4|251|29.30
+2125|Number Labyrinth|LABYR2|43|23.50
+2127|Rain|RAIN3|229|45.33
+2128|K-In-A-Row|KROW|308|35.55
+2129|Cake|CAKE2|50|23.53
+2130|Trolls|TROLLS|26|50.00
+2131|Get Back!|GETBACK|46|48.04
+2132|Puzzle|PUZZLE2|78|40.09
+2136|Candy II|CANDY2|395|47.05
+2138|Pibonacci|PIB|29|13.99
+2139|Gossipers|GOSSIPER|414|34.09
+2140|(un)Fair Play|FAIRONOT|54|43.23
+2141|Golden Garden|GARDEN|15|23.08
+2142|Arranging Flowers|FLOWERS|16|27.12
+2143|Dependency Problems|DEPEND|267|37.96
+2144|K Edge-disjoint Branchings|FOREST|3|6.52
+2147|Root of a Linear Equation|ROOT|34|8.44
+2148|Candy III|CANDY3|3129|22.35
+2149|Biased Standings|BAISED|515|25.92
+2150|Counting Subsequences|SUBSEQ|422|24.27
+2151|Digital Calculator|CALCULAT|19|8.84
+2152|Hilbert Curve|FRACTAL|5|14.63
+2153|Internet is Faulty|IMATCH|40|46.00
+2154|Kruskal|KRUSKAL|62|14.36
+2157|Anti-Blot System|ABSYS|2808|44.44
+2159|Delicious Cake|CAKE3|20|14.86
+2160|Here-There|HERE|14|11.29
+2161|Pixel Shuffle|JPIX|20|17.74
+2162|Towers of Powers|TOWER|21|17.78
+2171|Ambiguous Codes|AMCODES|54|40.80
+2172|Ballroom Lights|BALLIGHT|29|38.46
+2173|Car Plates Competition|CPC|173|43.32
+2174|Drop the Triples|DTT|62|28.32
+2175|Emoticons|EMOTICON|93|31.31
+2176|Finding Seats|FSEATS|137|17.04
+2177|Galou is back!|GALOU|113|41.16
+2178|He is offside!|OFFSIDE|1974|49.36
+2179|ICPC Scoreboard|ICPCS|95|40.07
+2180|Justice League|JLEAGUE|62|48.36
+2185|Musical Optimization|MUSIC|49|48.48
+2189|Making Pairs|MKPAIRS|31|21.62
+2202|Tan and His Interesting Game|TAN1|25|23.81
+2206|Labyrinth|PPP07D|0|0.00
+2270|Balloons in a Box|BALLOON|81|20.63
+2271|Undecodable Codes|UCODES|33|15.73
+2272|Crossing the Desert|DESERT|49|30.54
+2273|Ferries|FERRY|24|15.38
+2274|Island Hopping|ISLHOP|75|48.00
+2275|Toil for Oil|OIL|5|9.76
+2276|Partitions|RECTNG2|12|11.01
+2277|Silly Sort|SSORT|225|53.90
+2317|Bracket Sequence|LEXBRAC|42|27.53
+2318|Overlapping Words|WORDS|85|23.99
+2319|Sequence|BIGSEQ|134|32.64
+2320|Manhattan|DISTANCE|357|44.61
+2321|Segments|SEGMENTS|99|13.97
+2322|Tree Game|TREEGAME|241|52.89
+2323|Broken Compass|COMPASS|43|14.73
+2324|Mario|MARIOGAM|43|16.78
+2325|String Distance|STRDIST|146|23.29
+2371|Another Longest Increasing Subsequence Problem|LIS2|240|15.05
+2412|Arranging Amplifiers|ARRANGE|343|27.71
+2413|Building Beacons|BUILD|49|50.00
+2414|Calculate The Cost|CCOST|113|23.84
+2415|Kirchhof Law|RESIST|38|20.99
+2416|Distinct Subsequences|DSUBSEQ|542|36.45
+2417|Eliminate The Enemies|ENEMY|19|40.30
+2418|Flying Frogs|FFROG|57|47.18
+2419|G-Line Grid|GLGRID|3|11.11
+2420|Hospital at Hands|HHAND|28|29.81
+2421|Incrementing The Integer|ININT|35|27.81
+2422|Jazzy Job|JAZZYJOB|56|44.58
+2423|Minimal Triangulations of Graphs|MINTRIAN|21|36.09
+2426|Palindromes|PLD|328|20.51
+2450|Counting Rabbits|RABBIT1|656|33.46
+2485|Phone Lines|PHONELIN|20|26.09
+2511|Magic Program IV|MAGIC4|24|24.48
+2523|Mispelling|GNY07A|4334|48.96
+2524|Conversions|GNY07B|2479|51.72
+2525|Encoding|GNY07C|533|27.88
+2526|Decoding|GNY07D|531|48.47
+2527|Flipping Burned Pancakes|GNY07E|192|56.63
+2528|Monkey Vines|GNY07F|546|46.23
+2529|Model Rocket Height|GNY07G|56|59.05
+2530|Tiling a Grid With Dominoes|GNY07H|507|69.56
+2531|Spatial Concepts Test|GNY07I|48|67.95
+2565|Another Permutation Problem|PERMUT3|50|27.30
+2631|Chomp|CLK|87|56.76
+2643|Starcraft I|SC1|40|26.12
+2648|Archiver|KPARCH|37|17.03
+2649|Weird sorting|KPSORT|45|34.62
+2658|Art of War|WAR|13|30.77
+2660|Example|EXAMPLE|9|20.24
+2661|Illumination|ILLUM|1|4.69
+2662|Put a Point in a Hyperspace|PUTIN|17|13.58
+2666|Query on a tree IV|QTREE4|118|23.80
+2668|Polygon|POLYSSQ|48|29.58
+2670|Count Minimum Spanning Trees|MSTS|63|15.36
+2678|Closest distance|GANNHAT|93|15.32
+2699|Recursive Sequence (Version II)|SPP|183|29.91
+2709|Untitled Problem|UNTITLED|21|19.21
+2713|Can you answer these queries IV|GSS4|95|20.13
+2714|Cow Cars|COWCAR|256|51.61
+2715|Glasnici|GLASNICI|146|48.54
+2716|Maximal Quadrilateral Area|QUADAREA|1045|42.46
+2727|Army Strength|ARMY|2283|37.43
+2728|Breaking in|BREAK|90|27.83
+2731|Inventing Test Data|INVENT|104|47.76
+2733|K Equal Digits|KEQ|9|12.98
+2734|Large party|LARGE|27|25.00
+2735|Simplify the Railroad System|RAIL|49|47.01
+2737|Perfect Rhyme|PRHYME|84|23.60
+2738|Number Guessing Game|GUESSING|2045|69.06
+2742|Summing Sums|SUMSUMS|328|19.88
+2743|Prefix Tiling|PRETILE|74|28.91
+2815|Increasing Subsequences|INCSEQ|457|33.01
+2816|Common Subsequences|CSUBSEQS|100|29.61
+2817|Distinct Increasing Subsequences|INCDSEQ|267|29.01
+2826|Round-Robin Scheduling|RRSCHED|197|33.73
+2829|Time Limit Exceeded|TLE|72|20.03
+2832|Find The Determinant III|DETER3|119|24.83
+2833|Super Dice Game|SDGAME|18|13.84
+2835|Memory Limit Exceeded|MLE|30|25.45
+2852|Broken Keyboard|BROKEN|308|45.06
+2853|Decode the Strings|PDECODE|273|38.49
+2855|Forest|FOREST2|47|16.62
+2856|Help Bob|HELPBOB|103|38.11
+2877|Another understanding of Super Dice Game|SDGAME2|8|18.99
+2878|Knights of the Round Table|KNIGHTS|42|19.58
+2879|The Cow Doctor|DOCTOR|93|35.22
+2880|Wild West|WILD|51|38.38
+2881|Find the Clones|CLONE|795|43.03
+2882|The Warehouse|WARE|18|24.53
+2883|Widget Factory|WIDGET|39|32.88
+2884|Martian Mining|MARTIAN|156|52.47
+2885|Word Rings|WORDRING|50|17.70
+2898|Party of Cloaked Killers|PARTY2|21|25.84
+2899|Volunteers|VOL|27|43.53
+2901|One Geometry Problem|GEOPROB|667|36.84
+2903|Transportation|TRANSP1|11|56.52
+2905|Not a Triangle|NOTATRI|820|34.20
+2906|GCD2|GCD2|1100|33.68
+2916|Can you answer these queries V|GSS5|332|33.91
+2939|Query on a tree V|QTREE5|80|28.70
+2940|Untitled Problem II|UNTITLE1|49|13.01
+2944|Emmons|SHOOTING|5|17.65
+2946|Eclipse|ECLIPSE|4|6.34
+2961|Triomino Game|TRIOMINO|148|28.34
+2962|Painting Blocks (Act I)|PAINTBLK|74|60.32
+2963|Painting Blocks (Act II)|PAINTBLC|43|20.35
+3002|Electrophoretic|ELECTRO|9|20.93
+3003|Median Filter|FILTER|13|30.14
+3004|Life Game|LIFEGAME|45|34.78
+3005|Subdividing a Land|LAND|19|41.51
+3006|Connect Line Segments|LINE|46|35.50
+3007|Oil Company|OILCOMP|56|25.85
+3008|Finding the Top RPS Player|RPS|69|66.94
+3009|Revenge of Voronoi|VORONOI|7|18.75
+3010|Castle Wall|WALL|10|13.27
+3023|Binary multiplication|MUL2COM|138|24.81
+3033|Help the soldier|SOLDIER|348|26.60
+3070|How many subsequences|SEQ5|55|8.73
+3078|Copying DNA|COPYDNA|26|22.07
+3105|Power Modulo Inverted|MOD|61|19.30
+3106|Dictionary Subsequences|DICTSUB|89|15.93
+3107|Odd Numbers of Divisors|ODDDIV|252|18.98
+3108|Charlesbert and Merangelou|GRAPHGAM|63|48.45
+3109|Longest Common Prefix|STRLCP|150|26.09
+3110|Palindromic Number|PALNUM|32|18.31
+3111|Stabards|STABARDS|65|45.25
+3112|Strings|STSTRING|183|32.54
+3133|Here We Go(relians) Again|GORELIAN|39|63.89
+3166|Permutation Exponentiation|PERMSG|27|18.90
+3179|Congruence Equation|DPEQN|64|30.89
+3184|Game of Lines|LINES|523|28.95
+3195|Doors and Penguins|DOORSPEN|105|29.62
+3196|Divisibility Relation|DIVREL|119|17.74
+3197|Tree Construction|TREECST|46|22.06
+3208|Yet Another Longest Palindrome Problem|PALIM|39|17.42
+3249|Typesettin|TYPESET|25|54.72
+3251|Slink|SLINK|12|59.09
+3253|Electronic Document Security|EDS|106|62.07
+3254|Guard|GUARD|10|58.82
+3261|Race Against Time|RACETIME|101|22.41
+3267|D-query|DQUERY|383|28.69
+3273|Order statistic set|ORDERSET|295|30.48
+3305|Roman Patrollers|SA04C|23|65.22
+3306|Very Special Boxes |SA04D|73|30.55
+3307|Hex Tile Equations|HEXTILE|23|45.10
+3308|The Bridges of San Mochti|BRIDGES2|43|70.31
+3309|Bulletin Board|BULLETIN|13|14.55
+3310|Serial Numbers|SERIALN|25|24.07
+3314|Umnozak|UMNOZAK|51|32.43
+3322|Doubled Numbers|DOUBLE|127|49.43
+3347|Cestarine|HIGHWAY|45|48.89
+3359|Stack|STACK|34|27.50
+3360|Digital Image Recognition|IMGREC2|4|3.42
+3361|Cavli|CAVLI|32|61.39
+3362|Setnja|SETNJA|170|20.07
+3363|Svada|SVADA|215|26.69
+3372|Round Table|ROUNDT|25|44.62
+3373|Permutation Code|PERMCODE|22|47.06
+3374|Scavenger Hunt|SCAVHUNT|651|54.46
+3375|Stamps|STAMPS|2259|46.29
+3376|Parking Lot|PARKINGL|121|19.50
+3377|A Bug&#8217;s Life|BUGLIFE|714|24.50
+3378|Mirrored Pairs|MIRRORED|2672|44.08
+3379|String Shuffle|SSHUFFLE|157|63.47
+3380|Tourist|TOURIST|168|33.54
+3381|Highways|HIGHWAYS|500|42.71
+3382|Monster Trap|MONSTER|16|17.90
+3385|Yoda Goes Palindromic !|YODA|283|35.60
+3386|Contest System Quality Assurance Tester|QUALITY|1434|37.98
+3387|Changing Maze|CHMAZE|197|27.33
+3388|Double Near Palindromes|DNPALIN|289|34.99
+3389|The Knights of the Round Circle|KNIGHTSR|257|71.31
+3390|Tribe Council|TRIBE2|33|36.62
+3393|Knot or Not|NOTOKNOT|5|20.00
+3394|Lagrange&#8217;s Four-Square Theorem|LAGRANGE|267|45.42
+3405|Almost Shortest Path|SAMER08A|323|41.71
+3406|Bases|SAMER08B|49|19.17
+3407|Candy|SAMER08C|361|50.19
+3408|DNA Sequences|SAMER08D|277|28.06
+3409|Electricity|SAMER08E|486|48.86
+3410|Feynman|SAMER08F|4393|67.23
+3411|Pole Position|SAMER08G|591|54.70
+3412|Higgs Boson|SAMER08H|40|28.57
+3413|Traveling Shoemaker Problem|SAMER08I|54|19.07
+3414|Bora Bora|SAMER08J|91|54.32
+3415|Shrinking Polygons|SAMER08K|99|27.40
+3420|Falling Ice|FALLINGI|5|20.83
+3426|Ouroboros Snake|OROSNAKE|58|53.07
+3436|Histogram|HIST2|323|55.19
+3442|The last digit|LASTDIG|3275|29.39
+3459|SkyScrapers|CEPC08B|157|41.71
+3461|Song Contest|SONG|7|14.29
+3462|The Skatepark´s New Ramps|RAMP|8|22.86
+3463|Robintron|ROBIN|6|35.29
+3465|Drive through MegaCity|DRIVE|13|29.63
+3476|Deposit|DEPOSIT|129|34.34
+3477|Baby|BABY|184|44.81
+3483|Begin|BEGIN|5|13.92
+3484|Crossbits|CROSSBIT|27|23.89
+3486|Elimination|ELIM|52|29.39
+3488|The  Top-Code|TOPCODE|25|16.58
+3490|Hidden Triangle|HIDTRI|9|29.41
+3492|Braille Transcription|BRAILLE|9|9.80
+3495|The Nobel Thief|NBLTHIEF|6|38.89
+3505|Prime Number Theorem|CPRIME|354|21.40
+3533|Game on board|BGAME|15|27.12
+3543|Matrica|MATRICA|42|40.97
+3544|Binary Search Tree|BST|230|28.71
+3545|Najkraci|NAJKRACI|64|33.22
+3565|Choosing Gloves|GLOVE|40|22.83
+3576|Boy Scouts|BOYSCOUT|69|34.52
+3577|Parity|PARITY|60|15.46
+3578|Hashing|HASH|24|23.12
+3579|Disjoint Paths|DISJPATH|132|23.63
+3581|Tree Similarity|TREESIM|20|58.45
+3582|Restaurant Tab|RSTAURNT|21|32.54
+3587|Prime Again |PAGAIN|294|16.13
+3591|Patting Heads|PATHEADS|328|37.44
+3605|Minimum Rotations|MINMOVE|201|17.69
+3638|Word Counting|WORDCNT|1023|18.73
+3639|Lucky Numbers|LUCKYNUM|321|37.83
+3640|Hanoi Subway System Construction|HNSUBWAY|18|33.96
+3641|Earthquakes|EARTHQK|16|46.34
+3642|Pretty Printing|PRETTYP|27|20.77
+3643|Traffic Network|TRAFFICN|211|18.91
+3644|Winning Strategy|WINSTRAT|23|45.07
+3645|Farthest Headquarters|HEADQRT|32|25.82
+3646|Adventure Tourism|ATOURISM|24|13.64
+3647|Moebius|MOEBIUS|0|0.00
+3678|Cattle Bruisers|CATTLEB|61|27.74
+3679|Moo University - Emergency Pizza Order|MOOPIZZA|28|28.17
+3693|Maximum Sum|KGSS|553|38.48
+3713|Primitive Root|PROOT|300|31.74
+3723|Snooker|SNOOKER|264|52.54
+3724|Rainbow Ride|RAINBOW|186|44.90
+3725|Taming a T-REX|TREX|89|44.54
+3732|Slikar|SLIKAR|114|62.17
+3733|Trezor|TREZOR|62|58.79
+3734|Periodni|PERIODNI|70|39.06
+3749|Subset Sums|SUBSUMS|467|28.92
+3752|JEDNAKOST|JEDNAKOS|170|21.09
+3753|GONDOR|GONDOR|167|59.15
+3754|MAJMUN|MAJMUN|54|52.74
+3762|Bread Tree|BRTREE|82|27.08
+3763|George|GEORGE|138|64.85
+3791|Street|STREET|149|57.14
+3831|Lubenica|LUBEN|132|43.75
+3832|Kruska|KRUS|71|42.56
+3833|Tresnja|TRES|94|52.02
+3861|Laser Phones|MLASERP|298|39.80
+3863|Area of circles|VCIRCLES|122|29.83
+3865|Reljef|RELJEF|52|54.47
+3866|Finding Palindromes|VPALIN|59|18.29
+3867|Who is The Boss|VBOSS|79|27.55
+3868|Total Flow|MTOTALF|283|36.91
+3870|Military Story|VMILI|81|36.91
+3871|GCD Extreme|GCDEX|171|22.99
+3872|Party At School|VPARTY|38|25.77
+3876|Tablica|TABLIC|145|59.73
+3877|Cvjetici|CVJETICI|205|58.55
+3878|Rectangles Perimeter|MMAXPER|548|42.74
+3881|Majstor|MAJSTOR|509|51.53
+3882|Cijevi|CIJEVI|131|51.89
+3883|LATGACH3|M3TILE|631|61.61
+3884|When (You Believe)|WHEN|4|8.33
+3885|Coins Game|MCOINS|686|44.66
+3889|Closest Number|MCLONUM|121|32.78
+3890|Rectangles  Counting|MRECTCNT|131|35.88
+3893|Space settlement|SPACESET|59|44.68
+3894|Bouncing Balls|BOBALLS|19|42.31
+3895|Matrix Game|MTRGAME|24|35.71
+3896|Maximal Independent Set|MAXISET|25|27.88
+3897|Convex Polygons|CVXPOLY|49|34.21
+3898|Even Palindrome|PALDR|63|6.45
+3899|Finding Fractions|FINFRAC|104|26.22
+3900|MinCut Query|MCQUERY|31|27.65
+3901|Black and White Nim|BNWNIM|36|63.74
+3902|Fight with functions|FWFUNC|5|52.94
+3912|Color a tree|MTREECOL|47|36.42
+3915|Star Polygon or Not|MPOLSTAR|23|50.94
+3920|Lucius Dungeon|BYTESE1|446|44.14
+3921|The Great Ball|BYTESE2|562|44.05
+3922|Mystical River|BYTESM1|95|28.17
+3923|Philosophers Stone|BYTESM2|1213|45.86
+3924|Filchs Dilemna|BYTESH1|256|68.42
+3926|Manhattan Wire|MMAHWIRE|67|11.88
+3927|Polygon on the Grid|MPOLGRID|18|35.00
+3928|Counting Digits|MDIGITS|256|40.62
+3929|Different Digits|MDIGITS1|46|23.17
+3930|Group Partition|MPART|37|24.88
+3931|Maximum Triangle Area|MTRIAREA|107|29.33
+3932|Point Connection Game in a Circle|MCIRGAME|276|43.64
+3933|Minimum Permutation|MMINPER|111|38.48
+3934|Recaman&#8217;s Sequence|MRECAMAN|958|50.99
+3935|SHIFT Operator on Matrix|MMATRIX|120|41.19
+3939|Search of Concatenated Strings|MCONSTR|20|26.32
+3941|Kth Shortest Path|MKTHPATH|18|37.80
+3943|Nested Dolls|MDOLLS|242|28.69
+3944|Bee Walk|MBEEWALK|312|66.67
+3946|K-th Number|MKTHNUM|192|26.91
+3948|Polynomial Evaluation - Angry Teacher|MPOLEVAL|17|31.34
+3953|Paid Roads|MMINPAID|91|27.91
+3961|Journey with Pigs|MJOURNEY|76|50.31
+3962|ELEVATOR II|MELE2|59|48.94
+3964|Investment Money|MINVEST|140|30.07
+3965|Minimax Triangulation|MMINMAX|43|38.36
+3969|M&M Game|MMMGAME|259|44.33
+3970|Convert to Decimal Base System|MCONVERT|35|39.85
+3972|Stargates|STARGATE|14|8.96
+3973|0 0 Pairs|M00PAIR|429|26.38
+3974|Another Tree Problem |MTREE|181|40.72
+3975|Most Servings Meal|MKUHAR|117|28.80
+3977|Police Query|POLQUERY|69|24.57
+3978|Distance Query|DISQUERY|145|33.22
+3979|Whirligig number|MZVRK|562|37.33
+3980|Point Visible|MPOINT|38|34.65
+3981|Shortest Regular Bracket  |MBRACKET|63|38.12
+3982|String problem|MSTRING|157|44.94
+3983|Right Triangle Counting |RIGHTTRI|95|17.20
+3999|FROGGER|FROGGER|41|39.35
+4000|GALLUP|GALLUP|47|46.30
+4003|Subway planning|SUBWAYPL|27|21.12
+4004|Exploding CPU|CPU|95|49.60
+4021|Bipalindrome|MBIPALIN|107|31.13
+4031|Mass of Molecule|MMASS|461|48.79
+4033|Phone List|PHONELST|873|28.22
+4034|Pizza Delivery|MDOSTAVA|35|20.55
+4035|NERED|MNERED|184|63.17
+4036|Cuckoo Hashing|CUCKOO|80|31.32
+4038|Counting The Way of Bracket Replacement|MREPLBRC|128|44.33
+4052|Game|MGAME1|53|35.63
+4053|Card Sorting|MCARDS|126|59.61
+4060|A game with probability|KPGAME|61|16.55
+4061|Polygon|MPOLY|74|39.65
+4062|Rob Mini-Safe|MSAFE|77|48.21
+4063|Sell Pigs|MPIGS|65|51.59
+4069|Morphing is Fun|MORPH|17|23.33
+4070|Two Professors|TWOPROF|48|17.20
+4082|BLAST|MBLAST|397|50.96
+4083|Tele Broadcast|MTELE|39|59.26
+4097|Locomotive|MTRAIN|28|53.85
+4100|Sum of Vectors|MVECTOR|64|29.72
+4103|Extend to Palindrome|EPALIN|286|26.50
+4110|Fast Maximum Flow|FASTFLOW|407|34.29
+4141|Euler Totient Function|ETF|969|31.04
+4142|Ellipse|ELLIPSE|14|9.61
+4154|IZBORI|IZBORI|25|28.12
+4155|OTOCI|OTOCI|149|53.96
+4156|PLAHTE|PLAHTE|50|34.46
+4157|Domino|DOMINO2|33|25.17
+4160|A1 Road|MA1|56|50.00
+4164|A conjecture of Paul Erdõs|HS08PAUL|241|48.88
+4166|Four colors|HS08FOUR|52|21.95
+4168|Square-free integers|SQFREE|128|42.95
+4172|Multiplicative digital root|DROOT|48|27.08
+4176|A Knightly Pursuit|KPURSUIT|40|31.88
+4177|Herding|HERDING|334|36.06
+4178|Distance on a square lattice|LATTICE|95|56.32
+4179|Temptation Island|TEMPTISL|215|45.16
+4180|Pizza Location|PIZZALOC|204|23.88
+4181|MELE3|MELE3|176|46.14
+4182|Candy (Again)|FCANDY|105|16.74
+4185|Cube|CCCCUBE|41|41.58
+4186|Break a New RSA system|HS08CODE|92|30.00
+4188|Amazing equality|HS08EQ|25|42.19
+4189|Landing|LANDING|3|6.98
+4191|Sky Code|MSKYCODE|117|27.68
+4194|Another Lucky Numbers|MSE08G|81|33.79
+4195|GCD Determinant |MSE08H|116|45.82
+4197|Dominoes|DOMINOES|66|24.89
+4198|Lego|LEGO|51|37.24
+4200|Hamster flight|HAMSTER1|312|41.15
+4201|Coder Ratings|RATING|340|36.35
+4202|Brackets Parade|BRPAR|145|45.60
+4204|Showstopper|MSE07E|37|31.52
+4206|Fast Maximum Matching|MATCHING|348|30.54
+4225|Payment System|MSE06E|20|60.00
+4226|Japan|MSE06H|298|25.28
+4227|"Shortest" pair of paths |MSE06I|88|32.87
+4235|Wandering Queen|QUEEN|71|17.72
+4259|Pilots|MPILOT|306|32.27
+4273|Train TimeTable|TTTABLE|225|39.30
+4275|rotate it|BFROTATE|17|50.00
+4300|Rectangles|AE00|2914|51.48
+4301|Tables|AE1B|2771|54.66
+4302|(K,N)-Knight|AE2B|178|22.06
+4303|Dice|AE2A|191|18.23
+4305|Drilling|AE3A|32|17.75
+4306|The way to Bytemountain|AE4B|23|39.34
+4307|Stamps|AE4A|21|48.89
+4308|Byteantean towns|AE5B1|43|29.69
+4309|Circular game|AE5A1|6|27.27
+4310|Permutacja|AE5B2|92|41.19
+4311|Quasi-template|AE5A2|4|31.25
+4318|Catch Fish|MFISH|126|41.73
+4324|The fate of the pineapple|EVERLAST|25|26.67
+4329|Counting K-Rectangle|KRECT|131|28.72
+4343|Empty Boxes|EBOXES|864|64.18
+4350|Giá tr&#7883; l&#7899;n nh&#7845;t 3|QMAX3VN|113|27.59
+4354|Snowflakes|TWINSNOW|370|25.09
+4378|Twofive|TABLE5X5|43|32.86
+4390|Cards shuffing|CARDSHUF|44|24.47
+4407|Counting Arborescence|DAGCNT|67|36.75
+4408|Build a Fence|FENCE1|1897|42.87
+4409|Circle vs Triangle|AREA1|38|19.57
+4410|Repair the Door|REPAIR1|35|26.32
+4411|Counting Expressions|EXPR3|20|36.84
+4412|Factorization, Factorization, Factorization|FACTOR1|28|44.79
+4413|Gem|GEM|67|40.25
+4414|Highway|HIGHWAY1|33|25.20
+4415|Power of Integer|INTEGER1|140|23.61
+4416|Jumping Hands|JUMP1|171|73.26
+4420|Counting Graphs|KPGRAPHS|13|48.28
+4421|Irreducible polynomials over GF2|GF2|43|19.75
+4429|Spelling Lists|MIB|107|37.00
+4452|Simple Arithmetics II|ARITH2|1449|42.71
+4453|Bouncing Balls II|BOBALLS2|174|26.36
+4454|Brackets II|BRCKTS2|198|39.37
+4455|Going to the Movies|MOVIE|60|37.29
+4456|Jumbo Airlines|AIRLINES|35|48.00
+4457|Shopping II|SHOP2|51|40.51
+4465|The Ant|ANTTT|146|23.25
+4476|Playfair Cracker|PLAYFAIR|0|0.00
+4477|Flower growing|FLOWGROW|84|22.26
+4478|Counting Expressions II|EXPR4|10|32.56
+4480|Chaos Strings|MCHAOS|163|33.49
+4483|Roads Repair|MROADS|72|40.00
+4485|MobiZone vs VinaGone|MOBIVINA|108|40.49
+4487|Can you answer these queries VI|GSS6|223|29.52
+4491|Primes in GCD Table|PGCD|133|22.35
+4523|Binomial Coefficients|UCI2009B|126|45.04
+4525|Digger Octaves|UCI2009D|38|45.24
+4528|Frog Wrestling|FROGS|48|41.71
+4532|String reduction|STREDUCE|91|18.50
+4533|Determinant of Banded Matrices|BANDMATR|10|34.38
+4546|Tobo or not Tobo|ANARC08A|107|23.68
+4549|Adding Sevens|ANARC08B|750|31.84
+4551|Match Maker|ANARC08C|45|25.00
+4552|Adding up Triangles|ANARC08D|82|31.65
+4554|Relax! It is just a game|ANARC08E|2292|47.86
+4555|Einbahnstrasse|ANARC08F|164|29.32
+4556|Think I will Buy Me a Football Team|ANARC08G|406|52.37
+4557|Musical Chairs|ANARC08H|647|43.12
+4558|I Speak Whales|ANARC08I|119|40.21
+4559|A Day at the Races|ANARC08J|84|23.54
+4560|The Double HeLiX|ANARC05B|958|45.86
+4564|Chop Ahoy! Revisited!|ANARC05H|417|47.06
+4565|What is your Logo|ANARC05I|344|46.54
+4568|Rotating Rings|ANARC07C|156|39.36
+4569|Let go to the movies|ANARC07G|74|23.65
+4574|Riding in cycles|CYCLERUN|22|14.61
+4580|ABCDEF|ABCDEF|914|19.74
+4585|Star Wars|GCJ08C|56|38.50
+4586|Texas Trip|WLOO0707|48|37.82
+4587|Electric Fences|FENCE3|41|43.07
+4588|SETI|NWERC04H|65|69.17
+4593|Arithmetic sequence|ARITHSEQ|40|10.86
+4644|Proving Equivalences|PMATRIX|84|37.92
+4656|Cross Mountain Climb|CCROSS|37|36.65
+4657|Gas Wars|GASWARS|46|39.61
+4658|Help Hemant Verma|HHEMANT|25|12.27
+4666|Wireless|WIRELESS|62|47.25
+4667|Gremlins|GREMLINS|21|33.33
+4669|Cross Mountain Climb Extreme|CCROSSX|15|30.65
+4672|Yanu in Movie theatre|FUNPROB|345|48.75
+4681|Twice|TWICE|124|29.12
+4717|Grid Points in a Triangle|GPINTRI|57|41.63
+4828|ZSequence|ZSEQ|25|19.65
+4839|Ant|PA06ANT|93|42.24
+4871|Bridge|BRI|53|26.46
+4881|Words on graphs|AMBIG|83|10.23
+4882|Counting in a DAG|DAGCNT2|39|7.97
+4908|Run-Length Mathematics|RLM|431|45.48
+4941|Integer Factorization (20 digits)|FACT1|74|39.94
+4942|Integer Factorization (15 digits)|FACT0|285|30.34
+4948|Integer Factorization (29 digits)|FACT2|7|8.98
+4951|Bridges! More bridges!|BRII|22|20.69
+4987|Goal for Raúl|GOALFR|284|29.47
+4988|Madrids One Way Streets|MOWS|36|39.68
+4993|Traveling Salesman|FAKETSP|615|37.07
+5010|Lost in Madrid|LIM|69|32.64
+5011|Library for Madrid|LFM|32|32.56
+5014|Crazy Receptionist|CRAZYR|3|25.00
+5015|Decode the Castanets|CASTANET|11|48.28
+5016|Guernica|GUERNICA|8|57.14
+5018|Street Gambler|STRGAMB|14|60.87
+5084|Discrete Math Problem|GCD3|89|28.91
+5091|Feline Olympics - Mouseball|MBALL|219|43.37
+5093|Pretty function|PRETTY|24|20.86
+5102|Mystic  Craft|MYSTIC|36|56.96
+5103|Top 10|TOP10|19|19.72
+5104|Spam Detection|SPAMD|9|11.71
+5107|Playing with Marbles|TUTMRBL|314|25.18
+5115|Two "Ways"|SPHIWAY|35|17.78
+5117|Wine trading in Gergovia|GERGOVIA|361|32.55
+5120|Minimal Possible String|MINSEQ|30|5.38
+5128|Bomb the Bridge|BOMB|24|50.00
+5132|Hello Kitty|HELLOKIT|2510|48.58
+5142|A Pair of Graphs|PAIRGRPH|49|64.71
+5143|Binary Integer|BNYINT|16|41.07
+5144|Cryptography Reloaded (Act I)|CRYPTO6|22|23.77
+5145|Déj&agrave; vu|DEJAVU|12|20.93
+5146|Experiment on a &#8230; Cable|CABLEXPR|5|35.71
+5147|Fire-Control System|FCSYS|18|25.68
+5148|Get-Together at Stockholm|STCKHOLM|35|48.68
+5149|History of Languages|HISTORY|15|21.35
+5150|Junk-Mail Filter|JMFILTER|28|36.90
+5151|Alice&#8217;s Cube|ALICECUB|165|32.87
+5152|Brute-force Algorithm EXTREME|BFALG|43|22.83
+5153|Compressed String|COMPRESS|25|30.93
+5154|Cryptography Reloaded (Act II)|CRYPTO7|20|28.12
+5155|Exciting Time|TETRIS2D|18|24.73
+5156|Flowers Placement|FLOWERS2|29|29.41
+5157|Game Simulator|TRACTOR|2|3.28
+5158|Heroes Arrangement|HEROARR|5|13.73
+5159|Island Explorer|IEXPOLRE|24|14.67
+5160|Jinyuetuan Puzzle|O2JAM|30|36.36
+5161|Factorial vs Power|FACVSPOW|283|23.86
+5163|Tower of Vientiane|VIENTIAN|29|41.86
+5182|Double Sorting|PAIRSORT|9|7.28
+5196|Monotonous numbers|MONONUM|158|37.57
+5197|Differential Diagnosis|DIFFDIAG|46|22.35
+5240|Area of a Garden|GARDENAR|595|42.44
+5271|A Coin Game|XOINC|229|29.95
+5294|Recurrence|REC|139|15.85
+5295|Adjacent Bit Counts|GNYR09F|535|75.03
+5296|Air Combat|COMBAT|35|19.27
+5297|Family Problems|FAMILYP|1802|58.89
+5298|Interval Challenge|INTERVA2|67|16.03
+5300|Mexican Standoff|MEXICAN|17|25.64
+5301|Query Problem|QUERYSTR|111|38.42
+5317|Tetravex Puzzle|TETRAVEX|170|48.81
+5373|Four Mines|MINES4|7|10.31
+5446|Fishing Net|FISHNET|25|44.78
+5449|Seinfeld|ANARC09A|951|40.49
+5450|Tiles of Tetris, Not!|ANARC09B|861|32.52
+5451|Not So Flat After All|ANARC09C|381|47.10
+5452|Hop Do not Walk|ANARC09D|85|43.08
+5453|Air Strike|ANARC09F|81|30.00
+5463|Bird or not bird|BIRD|44|35.76
+5464|Counting triangles|CT|135|30.40
+5465|Deliver pizza|DP|124|24.75
+5466|Electronic queue|EQ|84|30.73
+5467|Finding password|FP|87|22.26
+5468|Going to school|GS|92|34.54
+5469|Houses|HOUSES2|19|32.32
+5511|Heavy Sequences|HSEQ|33|16.61
+5522|Buy Your House|PHU09H|8|58.82
+5523|Highway Patrol|PHU09K|9|64.71
+5530|Math with Bases (Easy)|BSMATH1|40|22.60
+5531|Kutevi Hard|KUTH|78|43.33
+5541|Sequoiadendron|SEQUOIA|38|50.00
+5542|Counting pairs|CPAIR|50|19.43
+5566|Math with Bases|BSMATH2|8|12.79
+5637|LL and ErBao|ISUN1|2|26.67
+5638|Mobile Service Hard|SERVICEH|12|21.67
+5640|Fractions on Tree|NG0FRCTN|534|61.05
+5649|Divide Polygon|DTPOLY|4|35.29
+5652|Snow White and the N dwarfs|PATULJCI|123|21.05
+5673|Fractions on Tree ( reloaded !)|NG1FRCTN|181|35.80
+5676|STONE GAME |RESN04|2460|72.55
+5699|The last digit re-visited|LASTDIG2|1256|26.90
+5703|Primes of Lambda|LPRIME|12|18.48
+5725|123 Sequence|KSEQ|80|23.42
+5732|Paradox|PARADOX|133|35.18
+5830|Alternating Permutations|ALTPERM|46|44.03
+5831|Permutation Jumping|PERMJUMP|122|63.00
+5832|AND Rounds|ANDROUND|301|22.16
+5833|XOR Rounds|XORROUND|178|35.71
+5885|Troops of Sand Monsters|TROOPS|74|25.30
+5902|Tri|CEOI09TR|22|14.22
+5911|Square-free Integers Factorization|SQFFACT|4|12.50
+5917|Factorial length|LENGFACT|801|29.16
+5969|Finding Maximum|FINDMAX|73|32.49
+5970|Finding Primes|FINDPRM|199|23.12
+5971|LCM Sum|LCMSUM|298|19.75
+5972|Maximum Sum Sequences|MAXSUMSQ|278|26.37
+5973|Selecting Teams|SELTEAM|63|42.11
+5975|Travelling Knight|TRKNIGHT|18|41.10
+5976|Traversing Grid|TRGRID|950|56.08
+5977|Weird Function|WEIRDFN|168|18.62
+5978|Frequent Prime Ranges|FRQPRIME|215|35.75
+5979|Yet Another Permutations Problem|YAPP|380|47.13
+5980|Matrix Game|MATGAME|134|33.82
+6035|Dinner|DINGRP|45|33.69
+6041|Mountain Walking|QCJ1|304|41.30
+6042|Another Box Problem|QCJ2|207|47.46
+6043|The Game|QCJ3|172|34.72
+6044|Minimum Diameter Circle|QCJ4|129|21.64
+6052|PBCGAME|PBCGAME|35|46.09
+6059|Another GCD problem|GCDSQF|126|44.51
+6072|Chocolate|SOCOLA|53|22.24
+6168|Building Bridges|BRIDGE|56|22.83
+6169|Standing Sequence|SSEQ|69|33.33
+6170|Homecoming|HOMEC|10|23.40
+6171|Majority|MAJOR|723|40.76
+6172|OAE|OAE|407|38.32
+6187|Jane and Tarzan|JANE|73|30.81
+6219|Edit distance|EDIST|915|33.76
+6221|Increasing Powers of K|INCPOWK|161|22.28
+6236|Matches|FERT21_0|235|21.97
+6256|Inversion Count|INVCNT|913|27.08
+6264|Rank of a Fraction|FNRANK|61|33.14
+6285|Another Game With Numbers|NGM2|220|32.63
+6286|Sum of products|SUMMUL|88|50.60
+6288|Treeramids|PYRA|173|44.12
+6289|Bomberman|BOMBER|49|36.71
+6290|Robbery 2|ROBBERY2|302|34.06
+6292|Shmoogle Wave|SHMOOGLE|4|27.59
+6294|Yodaness Level|YODANESS|394|39.90
+6296|Experiment|EXPER|18|21.10
+6297|Decipher|ROOTCIPH|798|35.83
+6299|Move Marbles|MOVMRBL|5|6.71
+6322|The hunt for Gollum|ARDA1|140|21.51
+6325|Many polygons|NGON|79|30.14
+6340|ZUMA|ZUMA|113|46.36
+6356|Rock-Paper-Scissors-Lizard-Spock|RPSSL|64|42.86
+6377|Two Array Problem|SAMTWARR|87|26.18
+6408|Counting Triangles 2|KKKCT2|38|32.72
+6450|PP numbers|MB1|300|39.30
+6470|Finding the Kth Prime|TDKPRIME|395|24.12
+6471|Printing some primes|TDPRIMES|276|25.32
+6477|Bowling|BOWLING1|221|29.08
+6478|Hamster Flight 2|HAMSTER2|10|15.62
+6479|The Very Greatest Common Divisor|VGCD|47|9.17
+6488|Printing some primes (Hard)|PRIMES2|17|14.53
+6489|Finding the Kth Prime (Hard)|KPRIMES2|14|18.60
+6499|Breaking Chocolates|BCHOCO|36|28.43
+6500|Counting Diameter|DCOUNT|25|36.71
+6503|Travelling Salesman Again !|TSPAGAIN|94|40.96
+6517|Farmer Sepp|JOCHEF|133|22.63
+6556|N DIV PHI_N|NDIVPHI|198|45.77
+6560|N DIV PHI_N (Hard)|NDIVPHI2|86|23.09
+6562|Esferas|PRUBALL|104|55.32
+6576|Divide and conquer|DIVCON|17|23.08
+6578|Segment Tree|SEGTREE|7|17.74
+6622|Islands and Hotel Chains|HCHAINS|18|15.71
+6624|Snowball Game|SNOWGAME|31|36.14
+6650|Consecutive sequence|SEQ6|118|20.43
+6665|Easy Longest Common Substring|ELCS|58|26.33
+6678|Load Testing |GCJ101C|128|61.75
+6681|Ði&#7875;m tr&#234;n c&#7841;nh h&#236;nh ch&#7919; nh&#7853;t - HRASTOVI|MRECT1|71|63.54
+6690|A - Comparison Expressions|BOCOMP|39|32.84
+6691|Picking Up Chicks|GCJ101BB|142|62.50
+6692|B - Esperanto Lessons|BOLESSON|49|61.96
+6693|C - Karaoke|BOKO|4|21.05
+6694|D - Playing with Marbles|BOMARBLE|629|67.37
+6695|E - Publish of Perish|BOPERISH|269|39.87
+6700|Make it Smooth|GCJ101AB|55|21.21
+6706|Making Chess Boards|CT101CC|20|30.86
+6709|Multiplying by Rotation |MBR|69|49.68
+6711|Transform a sequence|BLOCK|25|50.94
+6717|Two Paths|TWOPATHS|44|18.98
+6720|Paper Fold|PFOLD|10|14.81
+6726|Goldbach graphs|GOLDG|17|65.38
+6731|Coeficientes|COEF|406|46.48
+6732|Camels|CT14E|58|41.05
+6738|Nice Quadrangles|CHEFMAY|146|43.44
+6767|Sequence Function|SEQFUN|11|23.94
+6772|Happy Coins|HC|511|55.61
+6773|Dinostratus Numbers|DINONUM|60|18.60
+6779|Can you answer these queries VII|GSS7|91|28.34
+6803|Absurd prices|ABSURD|161|26.93
+6804|Cheating or Not|CHEATING|3|7.69
+6805|Counter attack|CATTACK|88|71.19
+6818|Capital City|CAPCITY|111|32.12
+6819|Yet Another Assignment Problem|ASSIGN5|3|8.33
+6823|Seller Bob|CFJUN21|53|22.73
+6824|Flag|CTFLAG|52|32.63
+6825|Field Plan|FPLAN|27|48.15
+6826|Hacking|HACKING|50|16.48
+6827|Last Minute Construction|LMCONSTR|2|11.11
+6828|Lineup|LINEUP|183|33.52
+6829|Polynomial|POLYNOM|112|42.21
+6830|Soccer Bets|SBETS|768|49.37
+6831|Two Ball Game|TBGAME|21|36.94
+6832|To Score or not to score|TOSCORE|17|31.82
+6851|Fence|CT10R3B|30|30.69
+6852|Fish|CT16E|72|22.87
+6860|Asistent|ASISTENT|15|15.49
+6885|Wonkas Oompa-Impa Dilemma|WONKA1|6|33.33
+6893|Power Sums|PWSUM|55|60.69
+6895|Maximum Edge of Powers of Permutation|MEPPERM|1|1.82
+6898|Substring Problem|SUB_PROB|70|11.81
+6906|Raining Parabolas|RPAR|44|34.20
+6917|Catch Sheep|XYYHHTT|16|28.43
+6926|Tree game |CT23E|22|46.15
+6949|PIN|CTOI10D2|66|25.73
+6950|A HUGE TOWER|CTOI10D3|77|51.68
+6951|MP3 Player|CTOI10D1|16|46.15
+6956|IOI2009 Mecho|CTOI09_1|55|25.86
+6957|Partial Palindrome|PARTPAL|1|3.70
+6977|Odd Independent Sets|INDEPCNT|11|68.42
+6978|Check 1324|PERMPATT|28|20.09
+6981|The Least Number|RNDORDER|16|32.43
+6985|Rearranging Digits|ARRANGE2|62|39.88
+6986|Summing Slopes|SUMSLOPE|59|45.39
+6988|Beer Machines|STJEPAN|8|12.63
+6999|Avoiding SOS Grids|AVOIDSOS|15|10.13
+7001|Visible Lattice Points|VLATTICE|66|38.33
+7002|Buildings|BUILDING|36|33.63
+7010|Police Business|ACAB|2|33.33
+7015|Party|CFPARTY|242|48.03
+7019|Zig-Zag rabbit|ZIGZAG|190|31.73
+7022|Cow Patterns|CPATTERN|27|47.95
+7023|Cookies|KOLACI|13|32.93
+7025|Roads in Berland|CT25C|54|36.03
+7034|Crashing Robots|CROBOTS|77|55.83
+7035|The Embarrassed Cryptographer|CRYPTON|96|35.11
+7050|Necklace Decomposition|NECKDEC|32|59.15
+7099|Advanced Edit Distance|ADVEDIST|74|42.25
+7100|Back To The Polygon|BACKTPOL|29|39.05
+7101|Charly And Nito|CANDN|98|36.83
+7102|Doing The Word Wrap|DTWW|88|37.13
+7103|Edit Distance|EDDIST|31|26.32
+7104|Feanor The Elf|FTHEELF|329|32.26
+7107|G Key|GK|34|50.50
+7108|Heptadecimal Numbers|HEPNUM|575|33.76
+7109|Indicator of progression|INDIPROG|166|27.35
+7132|Headshot|HEADSHOT|601|31.91
+7133|Garden 2005|IOIGARD|28|32.99
+7150|Palindrome 2000|IOIPALIN|254|29.76
+7152|Boundary 2003|IOIBOUND|5|25.00
+7155|Test|CF25E|45|20.36
+7169|Pizza|EGYPIZZA|1112|25.59
+7184|Axis of Symmetry|AXIS|18|18.24
+7185|Bye Bye Cakes|BYECAKES|891|31.74
+7186|Counting Pascal|COUNTPAS|63|29.43
+7187|Dinosaur Menace|DINOSM|29|12.53
+7188|Escape from Jail|ESJAIL|87|36.77
+7189|Falta Envido|FALTAENV|55|51.74
+7190|Guess the Number|GUESSTHE|654|29.56
+7191|Hexagonal Board|HEXBOARD|334|58.36
+7192|Integral Maximization|INTEGMAX|258|35.92
+7193|The Pharaoh Curse|CURSE|15|26.03
+7200|Strange Calendar|CAL|53|52.56
+7207|Alchemy|ALCHE|1670|38.91
+7208|Black or White|BORW|122|51.07
+7209|Closest Triplet|CLOSEST|56|38.62
+7210|Draw Mountains|DRAWM|182|39.45
+7211|Elastic Bands|ELASTIC|19|30.00
+7212|Find String Roots|FINDSR|256|34.22
+7216|The Clocks|CLOCKS|107|55.51
+7217|Training for final|TRIKA|350|42.28
+7230|Garbage Collection|GARBAGE|91|39.31
+7231|Homework|HOMEW|90|18.39
+7232|Inversion Sort|INVESORT|25|15.09
+7239|Cells|IPCELLS|38|42.74
+7240|Playground|PLYGRND|59|43.29
+7248|Chess part1|ROOKS|52|24.76
+7249|Perfume|PERFUME|37|21.51
+7250|Blocks for kids|PBOARD|28|44.34
+7258|Lexicographical Substring Search|SUBLEX|56|16.56
+7259|Light Switching|LITE|386|27.13
+7260|Number Game|NUMGAME|53|33.51
+7264|Digital LED Number|DIGNUM|115|58.70
+7296|Trees Again|CNTTREE|60|62.86
+7297|Placing Coins on a Grid|GRIDCOIN|59|41.51
+7299|Multiples of 3|MULTQ3|319|16.96
+7301|Lucky Controller|LCKYCONT|5|24.39
+7322|Prime Pattern|CHEFJUN|64|55.38
+7323|Happy Days|CHEFJUL|32|42.67
+7333|Shuffle Music|SHUFFLEN|5|17.86
+7335|Spheres|KULE|92|8.90
+7336|Mastermind|MSTRMND|234|39.02
+7337|Shuffling|SHUFFLE1|8|19.18
+7356|Iterated Bitcount Function|ITERBIT|15|16.16
+7363|Tree Sum|TREESUM|52|32.03
+7378|Manhattan Companies|MCOMP|10|15.62
+7380|Factorial challenge|FUNFACT|179|30.51
+7386|Activities|ACTIV|118|33.56
+7387|Airplane Parking|PKA|29|33.33
+7389|Rating Hazard|PKD|8|19.05
+7402|Repair Depots|PC8H|7|52.63
+7403|Messy Administration|MESS|6|30.00
+7404|Just on Time|ONTIME|5|35.71
+7405|Delicious Pancakes|PANCAKES|346|25.70
+7406|Beehive Numbers|BEENUMS|1248|55.40
+7408|Camelot|CAMELOT|27|39.13
+7409|Drawing Quadrilaterals|DRAWQUAD|25|15.02
+7422|Escape from Jail Again|ESCJAILA|99|62.44
+7423|File Recover Testing|FILRTEST|122|34.91
+7424|Girls and Boys|GIRLSNBS|1249|47.81
+7425|Hackers|HACKERS|81|29.31
+7426|Imperial Units|IMPUNITS|214|48.31
+7427|Jara&#8217;s Legacy|JARA|60|43.71
+7430|Tower Of Hanoi - Revisited|RANJAN02|275|52.32
+7486|Rooks|BIO1|124|25.19
+7487|Flibonakki|FLIB|249|28.52
+7488|LCM GCD Love|LGLOVE|83|34.72
+7489|Slow Growing Bacteria|SBACT|55|15.47
+7490|Biology|BIO|1|3.12
+7507|Wonderful Randomized Sum|CF33C|125|45.73
+7555|A - Crazy Rows|HAROWS|93|53.73
+7556|B - Stock Charts|HASTOCK|25|44.64
+7558|D - Alphabetomials|HAALPHA|10|73.33
+7559|E - Football Team|HATEAM|5|20.00
+7560|F - Interesting Ranges|HARANGES|1|16.67
+7561|Lexicographic position|LEXIPOS|11|35.29
+7562|Help in organizing|HLP|0|0.00
+7563|Hi6|HISIX|11|17.05
+7565|Another Sorting Algorithm|IITD1|20|17.29
+7566|Expected Cycle Sums|IITD5|35|55.17
+7567|Divisor Summation Powered|IITD4|94|21.46
+7579|Power Calculus|YOKOF|15|57.58
+7581|The Best Name for Your Baby|YOKOH|3|50.00
+7583|Cubic Eight-Puzzle|YOKOC|7|38.71
+7586|Number of Palindromes|NUMOFPAL|199|36.54
+7588|Wise And Miser|MISERMAN|674|72.36
+7589|Cave Crisis|PC8C|5|54.55
+7599|Optimal Strategy for the ICPC|PC8F|6|21.88
+7600|Milk Trading|MLK|66|28.48
+7602|New Game with a Chess Piece|CF36D|43|38.69
+7603|Fibonacci Factor|FIBFACT|11|32.32
+7623|Divisors VI|DIVISER9|8|25.81
+7627|Driving Direction|NE06D|0|0.00
+7628|Mathematics|MATHS|31|34.55
+7629|Building Ports|BPORT|37|16.86
+7630|SHOPPERS|SHOPPERS|118|40.71
+7632|Architecture|ARCHI|8|30.77
+7666|Telecommunications|TELECOM|16|27.94
+7668|Pebble Solver|PEBBLE|532|47.62
+7676|Sum of Digits|CPCRC1C|301|28.29
+7680|Electrical Engineering|ELEC|1|50.00
+7683|Powered and Squared|CSQUARE|263|24.33
+7685|Flowers|FLWRS|39|13.71
+7691|Homo or Hetero|HOMO|243|34.79
+7692|Chemistry|CHEM|7|10.39
+7693|Environmental Engineering|ENVIRON|4|36.36
+7696|Encryption|CENCRY|415|40.86
+7704|Civil Engineering|CIVIL|180|51.81
+7709|Jumping Zippy|JZPCIR|26|48.84
+7718|Number of common divisors|COMDIV|568|28.78
+7733|Happy Numbers I|HPYNOS|987|49.15
+7734|Twist and whirl - want to cheat |TWIST|14|19.23
+7737|Escape|BOI7ESC|30|33.98
+7739|Sound|BOI7SOU|57|26.44
+7740|Fence|BOI7FEN|7|29.17
+7741|Sequence|BOI7SEQ|263|28.12
+7742|Onotole needs your help|OLOLO|833|33.13
+7745|Bingo!|MBINGO|361|36.46
+7746|Cocircular Points|MCOCIR|24|15.26
+7753|Happy Numbers II|HPYNOSII|239|16.49
+7757|Flowers Flourish from France|MFLAR10|1016|48.07
+7758|Growing Strings|MGLAR10|52|29.98
+7759|Hyperactive Girl|MHLAR10|59|44.51
+7760|Kids&#8217; Wishes|MKLAR10|56|36.33
+7761|Jollo|MJLAR10|260|43.95
+7762|Electric Needs|MELAR10|13|47.62
+7763|Ingenious Metro|MILAR10|43|65.77
+7772|Help a researcher|HLPRSRCH|29|38.52
+7775|Explicit Formula|EXFOR|1480|56.50
+7776|Kind of a blur|ANARC09I|31|41.51
+7777|National Treasure|ANARC09J|10|42.31
+7778|Land Division|ANARC09H|16|41.67
+7779|Stock Chase|ANARC09G|39|30.64
+7782|Largest Labeled Common Ancestor|LLCA|111|61.09
+7783|Commuting Functions|COMFUNC|22|27.17
+7804|Defense of a Kingdom|DEFKIN|345|31.67
+7805|Kitchen Robot|KITROB|31|56.10
+7807|The Lucky Prisoner|LPRISON|18|8.18
+7809|Cow Photographs |COWPIC|67|40.16
+7826|Tree Isomorphism|TREEISO|36|11.78
+7851|Stacks of Zippy|JZPSTA|4|10.53
+7857|Tower Game (Hard)|ADV04A1|14|14.29
+7859|Upper Right King (Hard)|ADV04B1|56|31.37
+7860|Deal or No Deal|ADV04C|5|39.13
+7861|UFO|ADV04D|19|25.32
+7862|Prisoner of Benda|ADV04E|13|25.86
+7864|Four Chips (Hard)|ADV04F1|38|44.88
+7866|Regular expressions (Hard)|ADV04G1|6|12.75
+7868|Join|ADV04H|8|41.94
+7870|Invisible point|ADV04J|342|33.02
+7874|Calculator|ADV04K|14|18.18
+7875|Miles and kilometers|ADV04L|117|47.37
+7881|Ljutnja|C1LJUTNJ|261|27.01
+7882|Tabovi|C1TABOVI|184|49.47
+7884|Crni|C2CRNI|21|62.50
+7886|Boards (Hard)|ADV04I1|22|43.94
+7891|Fibonacci Sequence|SPFIBO|59|30.70
+7897|Skyline|SKYLINE|258|37.83
+7909|CALCULATE PATH FOR JERRY|FINDPATH|37|11.74
+7934|Operating System Problems (Task Scheduling)|OSPROB1|85|63.02
+7960|Multiplicative Palindrome|MULPAL|19|21.49
+7969|A Knights&#8217; Tale|ACPC10G|38|31.41
+7970|Jumping Beans|ACPC10H|32|37.29
+7971|The Cyber Traveling Salesman|ACPC10I|15|59.38
+7972|World of cubes|ACPC10F|16|23.64
+7973|Sometimes, a penalty is good!|ACPC10E|400|22.20
+7974|What&#8217;s Next|ACPC10A|2794|38.20
+7975|Tri graphs|ACPC10D|597|28.81
+7976|Sum the Square|ACPC10B|214|29.91
+8001|Fibonacci Sum|FIBOSUM|609|27.25
+8002|Horrible Queries|HORRIBLE|252|27.55
+8004|Tree Topology|TTOP|58|63.06
+8042|Possible Friends|SOCIALNE|195|38.26
+8044|Fantastic Discovery|IMMERSED|186|51.31
+8055|Playground|AMR10A|138|22.44
+8056|Regex Edit Distance|AMR10B|10|52.17
+8057|Square Free Factorization|AMR10C|407|43.72
+8058|Soccer Teams|AMR10D|75|22.89
+8059|Stocks Prediction|AMR10E|44|29.89
+8060|Cookies Piles|AMR10F|2593|70.34
+8061|Christmas Play|AMR10G|1007|38.88
+8062|Shopping Rush|AMR10H|35|59.68
+8063|Dividing Stones|AMR10I|63|27.52
+8064|Mixing Chemicals|AMR10J|54|23.97
+8073|The area of the union of circles|CIRU|107|28.18
+8074|God of Number Theory|NUMG|12|41.38
+8075|Sequence|SEQN|16|23.63
+8093|Sevenk Love Oimaster|JZPGYZ|19|10.12
+8096|Queue|SPQUEUE|30|11.09
+8097|Islands|IOIISL08|26|40.91
+8099|Crash´s number table|TABLE|25|18.53
+8100|Shifting Lights|SHLIGHTS|130|25.53
+8104|Friendly Knights|KFRIENDS|49|39.88
+8105|Dot Product Maximization|DPMAX|16|9.34
+8106|Normalized Form|ACPC10C|153|44.55
+8108|POLYU|POLYU|17|21.66
+8119|CIRU2|CIRUT|56|44.95
+8129|Sky Lift|SKY|28|23.27
+8132|Street Trees|STREETR|818|38.59
+8139|Chairs|CHAIR|277|33.84
+8177|Beautiful numbers EXTREME|JZPEXT|8|3.82
+8184|Bureaucracy|BUREAU|280|29.10
+8189|Circles On A Screen|CIRCSCR|31|29.55
+8217|XOR Maximization|XMAX|89|18.97
+8222|Substrings|NSUBSTR|33|31.31
+8238|N-Factorful|NFACTOR|278|25.83
+8263|Big Pyramid|EMILABC|5|27.78
+8265|Zero Count|ZEROCNT|9|20.45
+8277|Number of Prime Strings|PSTR|46|16.22
+8281|Combination Of Integers|INTCOMB|49|31.20
+8282|Distance|DIST|32|26.00
+8283|Non-Decreasing Numbers|NONDEC|19|26.17
+8284|Weighted Sum|WEIGHT|138|17.61
+8285|Rectangles in a Matrix|RECTMAT|1|17.65
+8286|Perfect Matching|MATCH|55|39.84
+8288|Fast Food Restaurant|FASTFOOD|20|31.25
+8316|Win gold medal |WINGOLD|40|28.37
+8317|Red Balls|SIGNGAME|26|47.90
+8318|color the balls|PLAYSIGN|29|40.00
+8319|GLJIVE|GLJIVE|842|32.06
+8320|Spreadsheet scrolling|SCROLL|55|36.09
+8321|Chocolate distribution|CHOCDIST|77|24.81
+8323|Triangle equality|TRIEQUAL|45|42.74
+8324|Military patrol|MILPATR|21|39.68
+8325|Partitioning the plane|PARTPLNE|19|53.70
+8326|Leaky containers|LEAKCONT|18|46.15
+8327|Progressive progressions|PROGPROG|36|62.69
+8328|Move the books|MOVEBOOK|22|33.33
+8329|Road trip|ROADTRIP|44|40.27
+8330|Giant fountain|GNTFNTN|20|58.06
+8331|Sister cities|SSTRCITS|30|51.95
+8332|Ski slopes|SKISLOPE|23|24.37
+8333|Place-name game|PLCNMGME|48|31.36
+8334|Enumeration of rationals|ENUMRTNL|39|28.42
+8335|Counting the teams|CNTTEAMS|16|48.48
+8349|BRODOVI|BRODOVI|269|43.40
+8351|KOSARK|MIDO|400|42.37
+8363|COSTLY CHESS|CCHESS|80|58.43
+8371|TRIANGULAR PRISM|PRISMSA|395|69.58
+8372|Triple Sums|TSUM|21|11.29
+8373|AVION|AVION1|1170|40.50
+8374|PARKET|PARKET1|603|48.61
+8391|The Ball|BALL|36|18.30
+8392|Youtube|YOUTUBE|83|20.24
+8398|Quadratic Equation|QUADRATE|319|27.65
+8406|Temple Queues|TEMPLEQ|60|23.51
+8407|Candies and Milestones|CANDYSTN|175|24.84
+8408|Min  Max 01 Path|MNMXPATH|67|28.73
+8409|Favorite Sub Hair|FAVSUBS|70|40.28
+8410|Snaky Numbers|SNAKYNUM|59|41.43
+8418|Revenge of the squares|SQUA_REV|40|29.70
+8419|Traversing Grid|BTCODE_A|146|26.74
+8420|Finding Minimum|BTCODE_B|34|40.86
+8421|Fun With Inequalities|BTCODE_C|86|39.93
+8422|Maximum Profit|BTCODE_D|332|56.65
+8423|Recover Polynomials|BTCODE_E|26|53.23
+8424|Life Game|BTCODE_F|92|52.91
+8425|Coloring Trees|BTCODE_G|74|36.00
+8426|Trie Expectation|BTCODE_H|85|61.58
+8427|Permutation Game|BTCODE_I|17|37.10
+8428|Grid Tiling|BTCODE_J|2|6.00
+8429|Array Sorting|BTCODE_K|37|20.07
+8433|Revenge of the squares (variation)|SQUAREV1|236|46.87
+8434|Kolica|KOLICA|31|41.18
+8442|Problem 3|NOVICE43|206|47.85
+8449|Plotting functions (variation)|PLOT1|5|10.20
+8456|PRIMITIVEROOTS|PROBLEM4|138|48.00
+8461|Adventure in Moving|AVDM|24|29.36
+8462|Barn Allocation|BARN|39|51.55
+8467|GRADE POINT AVERAGE|GPA1|189|25.87
+8478|Ancient Pocket Calculator|POCALC1|1|2.15
+8491|Messy Phone List|PHONMESS|5|10.29
+8495|Maximum Subset of Array|MAXSUB|180|26.43
+8496|No Squares Numbers|NOSQ|165|37.09
+8505|Nacci Fear|NACCI|98|46.84
+8507|Party Switching|PSWITCH|80|39.93
+8542|Modern Pocket Calculator|POCALC2|4|8.33
+8545|Subset sum|MAIN72|368|47.07
+8546|Manoj and Pankaj |MAIN73|42|35.29
+8547|Euclids algorithm revisited |MAIN74|174|34.05
+8549|BST again|MAIN75|48|18.30
+8550|Longest Square Factor|LSQF|25|14.02
+8551|Colours A, B, C, D|ABCD|239|16.96
+8558|Linear Equation Solver|LINQSOLV|10|28.57
+8574|Four in a row|FOUROW|10|16.39
+8578|Reverse the sequence|REVSEQ|16|51.61
+8583|Garden|NPOWM|7|87.50
+8591|Prime Permutations|PRIMPERM|51|28.97
+8594|Tails all the way |TAILS|120|34.47
+8596|Wood, Axe and Grass|WAGE|253|53.23
+8598|Traverse through the board|TRAVERSE|213|48.95
+8611|Non-Decreasing Digits|NY10E|530|56.36
+8612|Penney Game|NY10A|1068|68.86
+8624|Nim-B Sum|NY10B|285|60.20
+8625|Just The Simple Fax|NY10C|52|35.63
+8626|Show Me The Fax|NY10D|72|37.18
+8627|I2C|NY10F|14|42.42
+8628|Selling Land|NWERC10G|37|46.39
+8629|Stock Prices|NWERC10H|60|43.67
+8651|Alien arithmetic|ALIENS1|23|20.87
+8661|Bogosort|CHEFFEB|30|13.65
+8663|Squares Game|CHEFMAR|27|48.21
+8665|Lucky Sequence Again|ITRIX_B|481|51.03
+8666|Maximum - Profit -- Version II|ITRIX_C|65|47.16
+8667|Board-Queries|ITRIX_D|29|27.27
+8668|THE BLACK AND WHITE QUEENS|ITRIX_E|48|49.73
+8670|THE MAX LINES|MAXLN|1031|35.14
+8720|Looks like Nim - but it is not|GAME2|33|25.94
+8725|Closest Point Pair|CLOPPAIR|130|23.18
+8728|Hierarchy|MAKETREE|40|40.00
+8732|Best Fit|BFIT|121|33.33
+8734|Charlie and the Chocolate Factory|CHARLIE|18|22.22
+8735|Suffix Of Cube|CUBEND|39|40.00
+8747|Substrings II|NSUBSTR2|24|19.05
+8750|Wordplay|WORD|25|36.90
+8756|Shake Shake Shaky|MAIN8_C|291|24.25
+8757|Coing tossing |MAIN8_D|64|58.27
+8758|Cover the string|MAIN8_E|136|23.91
+8759|Alpine Skiing|SKIING|15|28.12
+8769|String distance|STRDIST2|8|58.82
+8785|Cut the Silver Bar|SILVER|797|55.32
+8786|The Longest Chain of Domino Tiles|DOMINO1|115|36.26
+8791|Dynamic LCA|DYNALCA|40|39.33
+8793|Separate Points|SPOINTS|20|31.76
+8794|Swimming Jam|SWJAM|12|77.78
+8795|Twenty Questions|TWENTYQ|14|17.97
+8796|Cubist Artwork|CUBARTWK|181|67.23
+8816|Mravograd|MRAVOGRA|13|31.48
+8820|Okret|OKRET|16|12.72
+8836|Yet Another Sequence Problem|SEQ7|28|19.78
+8839|Longest Common Difference Subsequence|LCDS|56|30.89
+8841|Avaricious Maryanna|AVARY|29|37.41
+8842|Boring Homework|BWORK|28|52.86
+8843|Complete the Set|COMPLETE|26|34.13
+8844|Detection of Extraterrestrial|DETECT|27|42.17
+8845|Entertainment|TENNIS|24|26.67
+8846|Fudan Extracurricular Lives|MAHJONG|4|57.14
+8847|Google is Feeling Lucky|FEELUCK|1358|51.76
+8848|Herbicide|HERBICID|5|17.14
+8849|Imitation|IMITATE|10|32.50
+8850|Juice Extractor|JUICE|26|24.22
+8869|Roti Prata|PRATA|253|25.52
+8886|Guess number!|GNUM|12|19.05
+8894|Double Time|DOUTI|11|37.84
+8895|Power Crisis|POCRI|134|23.43
+8896|Pattern Matching|PATT|6|10.39
+8910|Probablistic OR|PROBOR|69|47.40
+8916|Villages by the River|VILLAGES|82|24.81
+8917|How Many Plusses|PLUSEVI|91|37.36
+8930|Party!|PAAAARTY|14|17.51
+8945|Grid points (speed variation)|GRIDPNTS|12|15.05
+8951|brownie|XIXO|43|44.83
+8952|Catapult that ball|THRBL|203|24.55
+8971|LQDNUMBERS|LQDNUMS|16|35.09
+8980|Cost|KOICOST|88|37.05
+8982|Representatives|KOIREP|60|47.87
+8985|Line up|KOILINE|89|35.85
+8989|Funny programming contest|FUPRCO|18|25.00
+8991|Number Guessing Game 2|GUESSLNK|37|36.59
+8992|A los saltos|SALTOS|12|23.33
+8995|CANDY|LQDCANDY|523|36.35
+9000|Bob and his new kite factory|KITEPRBL|2|3.17
+9012|Maximum Self-Matching|MAXMATCH|12|16.48
+9030|Bob and his towers|KVALTWR|16|37.50
+9032|Cube Free Numbers|CUBEFR|447|33.09
+9034|Help Tohu|TOHU|552|42.50
+9038|Chessboard Billiard|BISHOP2|28|28.12
+9040|Tug of War|TUG|147|27.15
+9042|HQNP Incomputable|HQNP|4|36.36
+9046|Clock Hands|HANDS|215|23.51
+9050|Tohu again|TOHU2|432|30.66
+9055|Most Frequent Value|FREQ2|27|14.23
+9063|Shuffling cards|SHUFFLEK|3|15.15
+9066|Sum of Distinct Numbers|XXXXXXXX|38|18.97
+9070|Lightning Conductor|LIGHTIN|20|27.55
+9076|Hablu and Bablu|HABLU|28|21.87
+9081|Snail family problems|INCEST|18|36.76
+9084|Journey to Mars|JRNTMRS|32|26.02
+9086|Formula 3D|JZPFOR|3|40.00
+9096|Bob and magical scale|MGCSCLS|20|45.35
+9097|Derangements HARD|NOVICE65|29|58.02
+9098|Long Common Subsequence|LCS3|52|41.15
+9103|Special Numbers|NOVICE63|236|28.30
+9104|Match the words|NOVICE62|144|47.30
+9117|Faculty Dividing Powers|GCPC11A|137|22.28
+9118|Genetic Fraud|GCPC11B|56|37.60
+9119|Indiana Jones and the lost Soccer Cup|GCPC11C|52|30.29
+9120|Magic Star|GCPC11D|64|58.57
+9121|Magical Crafting|GCPC11E|31|53.12
+9122|Diary|GCPC11F|448|35.18
+9123|Security Zone|GCPC11G|17|26.34
+9124|Sightseeing|GCPC11H|90|15.77
+9125|Suiting Weavers|GCPC11I|31|32.86
+9126|Time to live|GCPC11J|186|39.63
+9137|Pyramid Sums|PYRSUM|33|34.03
+9138|Pyramid Sums 2|PYRSUM2|24|32.97
+9161|Legendre symbol|LEGRENDS|107|40.66
+9185|TORNJEVI|TORNJEVI|19|53.49
+9190|Perfect Maze|TREEMAZE|3|10.71
+9199|Circular Track|SPEED|447|28.46
+9213|Mafia|MAFBOI08|17|21.59
+9219|Nikhil Problem|BHAT007|63|47.59
+9260|Perfect Road|PERFECTR|7|16.67
+9331|DCD|DCD|10|63.16
+9334|Point in tetrahedron|TETRAHED|55|53.46
+9340|Arbitrage|ARBITRAG|56|40.00
+9367|Segment Flip|SFLIP|59|7.55
+9369|Progression|VUDAAB|473|61.17
+9378|Landfill|LANDFILL|19|43.33
+9382|Complan Carnival|CARNIVAL|17|43.90
+9385|Strictly not a Prime|MAIN111|99|32.27
+9386|Re-Arrange II|MAIN112|53|53.42
+9387|Special String|MAIN113|248|39.38
+9430|The game of 31|GAME31|52|46.83
+9433|Buzzwords|BUZZW|27|32.67
+9434|New Horizons|NEWH|4|19.23
+9440|To Add or to Multiply|ADDMUL|8|17.39
+9443|Trial of Doom|YALOP|13|72.22
+9444|Block Drop|BLOCKDRO|12|48.00
+9445|Attack of the Clones|CLONES|23|63.16
+9446|Shortest Circuit Evaluation|SHORTCIR|10|76.92
+9447|Genetics|GENETICS|22|46.55
+9448|Swarm of Polygons|SWARM|25|36.00
+9458|Ghosts having fun|GHOSTS|12|7.27
+9459|Connecting three towns (variation)|THREETW1|27|32.14
+9493|Advanced Fruits|ADFRUITS|125|43.85
+9494|Just Add It|ZSUM|354|41.85
+9503|Working in Beijing|WORKB|124|41.58
+9504|Paint on a Wall|PAINTWAL|9|61.11
+9505|Distinct Subtrees|DSUBTREE|9|34.62
+9506|Jimmy´s Travel Plan|DIST2|3|9.68
+9507|Mario and Mushrooms|MARIO2|186|53.17
+9508|Magic Bitwise AND Operation|AND|26|10.93
+9509|Shortest Path on a Cylinder|CYLINDES|1|28.57
+9510|Ads Proposal|ADSPROP|28|24.77
+9511|24-Puzzle|PUZZLE24|9|24.44
+9512|Bombing|BOMB2|33|32.62
+9513|Game|TETRISGM|10|29.41
+9515|Dwarven Sniper´s Hunting|HUNT1|5|57.14
+9516|XOR Equations|XOREQ|7|46.67
+9517|Unlock the Cellphone|UNLOCK|6|23.53
+9518|The Time of Day|LCM|13|26.23
+9519|Distinct Submatrices|DSUBMTR|6|34.62
+9520|Tanks|TANKS|9|12.79
+9525|Cipher|CIPHERJ|45|22.26
+9527|Department|DEPARTJ|0|0.00
+9528|Johns Trip|JTRIP|4|35.00
+9529|Maya Calendar|MAYCA|93|32.49
+9532|Transportation|TRANSJ|13|22.58
+9533|Kindergarten Counting Game|KINDJ|565|34.89
+9534|Turn on the lights|JZPLIT|13|41.03
+9535|Turn on the lights 2|JZPLIT2|4|23.53
+9543|Dynamic Congruence Equation System|DCES|1|33.33
+9547|Counting d-pairs|DPAIR|34|29.05
+9569|Sum of Pairwise Products|PAIRSUM|128|28.78
+9570|Counting binary strings|STRCOUNT|92|40.89
+9577|Dynamic Tree Connectivity|DYNACON1|20|36.76
+9587|The Prime conjecture|PRIMEZUK|117|35.04
+9636|A Canvas Building|ACANVAS|18|25.00
+9637|Black and White|BANDW|460|49.53
+9638|Circuits|CIRCUITS|3|4.76
+9639|Doing Nothing|DONOTHIN|826|48.66
+9640|Equilibrium|EQUI|61|28.57
+9641|Factory of Bridges|FBRIDGES|25|30.10
+9642|Getting There Fast|GETFAST|4|55.56
+9643|He is Lazy|HEISLAZY|34|43.20
+9644|Imperialism|IMPER|23|32.97
+9645|Joy of CompuTenis|JOCTENIS|1|25.00
+9650|Mega Inversions|TRIPINV|39|55.62
+9652|Robots on a grid|ROBOTGRI|110|21.35
+9655|Elevator Trouble|ELEVTRBL|138|26.80
+9685|Zombie&#8217;s Treasure Chest|ZTC|15|8.51
+9686|Yummy Triangular Pizza|YUMMY|59|65.69
+9687|Xavier is Learning to Count|XC|3|22.22
+9688|Winmine|WINMINE|0|0.00
+9689|Very Boring Homework|VBWORK|9|43.48
+9690|Universal Question Answering System|UQAS|9|42.86
+9691|Triangles and Quadrangle|TQ|3|42.86
+9692|Share the Cakes|CAKE4|1|3.45
+9693|Revenge of Fibonacci|REVFIB|22|27.59
+9694|Quelling Blade|QB|1|50.00
+9721|2s Complement|CODESPTA|83|33.60
+9722|Insertion Sort|CODESPTB|269|34.27
+9723|Card Shuffling|CODESPTC|22|18.13
+9725|Queens on a Board|CODESPTD|17|38.64
+9734|Hacking the random number generator|HACKRNDM|474|25.77
+9746|Bytelandian Tours|CODESPTE|5|23.53
+9748|Palindromes|CODESPTF|15|36.36
+9749|Cliques|CODESPTG|35|27.41
+9750|Polygon Diagonals|CODESPTH|9|23.68
+9751|Repairing Roads|CODESPTI|9|25.00
+9753|Tuple Division|TUPLEDIV|2|11.11
+9754|Egypt|SCPC11D|1144|48.86
+9755|Grey Area|SCPC11A|178|58.28
+9756|Alaska|SCPC11B|620|31.02
+9759|GO|SCPC11F|37|51.58
+9760|Indomie|SCPC11G|70|46.11
+9761|Dolls|SCPC11H|17|20.59
+9788|Friends of Friends|FACEFRND|605|65.26
+9805|Be Awesome As Barney Stinson|BEHAPPY|168|63.73
+9816|Lake of the dead|WPC4B|0|0.00
+9817|Shortcut|WPC4C|23|19.23
+9820|Through the troops|WPC4F|276|46.00
+9832|Matrix inverse|MIFF|10|57.45
+9842|Yet Another Fancy Game|GAME3|41|20.43
+9856|The Glazier|GLASS|13|65.38
+9857|Eight Directions Crossword|EIGHT|5|25.00
+9858|©tef and Barica|WALK1|20|38.36
+9860|The Glazier 2|GLASS2|3|60.00
+9861|Hotels Along the Croatian Coast|HOTELS|477|36.49
+9862|Help the Airline Company|REMOVE|3|15.00
+9887|Binomial coefficients|NWERC11A|68|38.93
+9888|Bird tree|NWERC11B|101|69.10
+9889|Movie collection|NWERC11C|55|51.59
+9890|Piece it together|NWERC11D|14|20.48
+9891|Please, go first|NWERC11E|99|67.58
+9892|Pool construction|NWERC11F|20|83.33
+9893|Smoking gun|NWERC11G|10|25.00
+9894|Tichu|NWERC11H|30|50.00
+9895|Tracking RFIDs|NWERC11I|21|28.00
+9896|Train delays|NWERC11J|16|36.00
+9916|Help Dr Whooves|PONY1|4|80.00
+9921|ABC Path|ABCPATH|289|22.05
+9934|Alice and Bob|ALICE|32|28.79
+9935|Break the Chocolate|BC|217|37.92
+9936|Construct the Great Wall|CGW|3|60.00
+9938|Disney Fastpass|DISNEY|15|23.73
+9939|Eliminate the Con&#64258;ict|EC|23|42.86
+9940|Fruit Ninja|FNINJA|20|23.70
+9941|GRE Words|GRE|15|7.74
+9942|Holiday Accommodation|HOLI|32|35.77
+9943|Isabella Message|ISAB|40|29.02
+9944|Ji-Tu Problem|JITU|4|10.26
+9948|Will it ever stop|WILLITST|1051|38.66
+9950|IQ Team|IQTEAM|11|32.56
+9952|111&#8230;1 Squared|GUANGGUN|305|40.34
+9964|Fibonacci vs Polynomial|PIBO|13|42.47
+9967|Playing with Words|PWORDS|2|10.53
+9968|Magic Crystals and Laser Beams|MCLB|92|27.89
+9969|Road Network|RDNWK|39|24.75
+9970|The Egyptian Parliament|EGYPAR|22|32.05
+9971|Adventurous Chess Masters|ACHESS|11|26.19
+9972|The SKey|SKEY|31|17.19
+9973|Problem Set Score|PROSCORE|335|36.60
+9974|Men From Mars|MENMARS|10|52.63
+9975|No Stories Any More!|FSEQ|16|28.99
+9985|Distance|DISTX|28|32.28
+10050|Power Tower City|POWTOW|8|13.24
+10069|Kompiæi|KOMPICI|72|31.44
+10070|Trick or Treat|TRICKTRT|25|78.21
+10071|Working at the Restaurant|RESTAURN|18|40.91
+10072|Lights|LIGHTS2|10|73.68
+10073|Darts|DARTS|11|73.33
+10074|Genetics|GENETIC2|2|50.00
+10075|Haunted Graveyard|GRAVEYRD|13|13.51
+10076|Slalom|SLALOM2|12|57.14
+10077|Routing|ROUTING|2|66.67
+10078|Happy Telephones|HAPPYTL|142|58.77
+10079|Stammering Aliens|STAMMER|17|55.22
+10080|Lawn Mower|LAWNMWR|107|59.38
+10081|Periodic Points|PERIODIC|6|85.71
+10082|Comparing Answers|CMPANS|20|41.18
+10084|Fake Scoreboard|FAKESCOR|10|64.71
+10085|Palindromic DNA|PALINDNA|8|30.30
+10086|Jumping Monkey|JMPMNKEY|18|42.37
+10087|Sensor Network|SENSORNT|11|52.38
+10088|Assembly Line|ASSEMBLY|16|56.67
+10089|Locks and Keys|LOCKKEY|7|33.33
+10091|Three-sided Dice|DICE|13|32.50
+10092|Party Night|PRTYNGHT|8|47.37
+10095|Caper Pizza|CAPPIZZA|12|46.15
+10096|Lights (Extreme)|LIGHTS3|8|50.00
+10105|Alphabet Soup|ALPHSOUP|13|61.54
+10106|Coin Collecting|COIN|10|57.89
+10107|Cybercrime Donut Investigation|DONUT|21|30.21
+10108|Distributing Ballot Boxes|BALLOT|99|36.80
+10109|Game, Set and Match|GSM|41|79.45
+10110|Guess the Numbers|GUESSNM2|56|46.67
+10111|Nonnegative Partial Sums|PARSUMS|96|37.99
+10112|Peer Review|REVIEW|53|32.99
+10113|Regular Convex Polygon|REGPOLYG|41|29.47
+10114|Remoteland|RMTLAND|50|54.29
+10128|Treasures and Vikings|TANDV|19|40.74
+10141|STRAZA|STRAZA|12|48.28
+10145|Birthday Cake|BCAKE|46|43.98
+10186|Divisor Digits|PUCMM025|335|31.21
+10210|After Party Transfers|TRANSFER|1|9.09
+10228|Magic Grid|AMR11A|124|23.44
+10229|Save the Students|AMR11B|62|26.27
+10230|Robbing Gringotts|AMR11C|18|16.23
+10231|Wizarding Duel|AMR11D|21|31.17
+10232|Distinct Primes|AMR11E|341|54.18
+10233|Magical Bridges|AMR11F|16|42.11
+10234|Here Be Dragons|AMR11G|927|55.07
+10235|Array Diversity|AMR11H|68|38.05
+10236|Generations|AMR11I|19|32.50
+10237|Goblin Wars|AMR11J|95|22.62
+10238|Arabic and English|ACPC11A|485|43.77
+10239|Between the Mountains|ACPC11B|434|36.97
+10240|Circleland|ACPC11C|195|25.35
+10242|Dice on a Board|ACPC11D|5|80.95
+10264|Meteors|METEORS|18|33.33
+10265|Subdivision of the kingdom|DIVIDEKR|9|50.00
+10270|Temperature|TEMPERAT|39|25.63
+10283|ALL IZZ WELL|ALLIZWEL|40|24.03
+10285|Why this kolaveri di|WTK|77|38.26
+10286|DOTA HEROES|DOTAA|542|41.35
+10292|Shell game|SHELL|319|18.88
+10293|FANCY NUMBERS|FANCY|212|51.78
+10301|A jumpy cycle|JUMPY|21|70.27
+10312|Concave quadrilaterals|CONCAVE|6|22.58
+10334|SOLDIERS|SOLDIERS|112|29.28
+10346|Streets of distortion|DISTO|35|47.33
+10354|Count Strings|CTSTRING|0|0.00
+10355|Coin Tosses|COINTOSS|134|38.58
+10366|Play with Dates|CODEIT03|162|30.53
+10373|Help Balaji!|ABA12A|644|51.49
+10376|String Factorization!|ABA12B|11|26.19
+10377|project groups|MECGROUP|44|58.82
+10380|prayatna PR|CAM5|99|41.33
+10381|Search in the dictionary!|DICT|45|14.29
+10394|Buying Apples!|ABA12C|65|42.62
+10395|Sum of divisors!|ABA12D|176|32.90
+10399|Conga line|CONGA|104|36.67
+10401|Aliens at the train|ALIEN|171|25.97
+10405|Shooting the balloons!|ABA12E|37|38.69
+10415|Dracula|DRACULA|35|31.33
+10416|Van Helsings gun|VHELSING|78|39.80
+10419|Polish Language|POLISH|36|24.60
+10420|Hardware upgrade|IOPC1200|29|38.32
+10421|Run, Snipe, Run|SNIPE|54|34.87
+10422|Rubiks cube|IOPC1201|29|72.00
+10424|To Poland|TOPOLAND|65|29.95
+10425|Security System|SECSYS|21|50.91
+10426|Check|CHECK2|1|33.33
+10427|Lost in Perian|PERIAN|0|0.00
+10437|Quadrilaterals|IOPC1202|40|33.93
+10438|Crazy texting|IOPC1203|79|30.36
+10439|Walking Robot|WALKROBO|47|42.99
+10440|Friends|FRNDS|19|24.11
+10442|Candy Distribution|CADYDIST|295|35.90
+10443|Bridges|BRDGS|1|25.00
+10444|Coding|CODING2|37|31.77
+10446|Sicrano|SICRANO|41|30.30
+10447|Contaminated City|CONTCITY|21|12.68
+10449|Resource Management|RESOURCE|6|14.93
+10450|Amoeba|AMOEBA|28|10.97
+10451|Stun Boosting|STUN|10|21.31
+10452|Caprica Cities|CAPRICA|41|36.59
+10453|Spring Loaded|SPRING|10|14.48
+10454|Greens Land|GREENLAN|18|62.86
+10460|A function over factors|IOPC1204|32|36.31
+10461|The magical escape|IOPC1205|15|80.77
+10463|COUNT PAREN|PAREN|35|61.04
+10464|Reverse Engineering|RE1|20|63.83
+10465|One Theorem, One Year|OTOY1|9|22.92
+10466|Enough of analyzing, let&#8217;s play|EALP1|24|46.77
+10471|Aliens at the train, again!|ALIEN2|38|36.97
+10476|Fair bases|IOPC1206|17|62.50
+10477|GM plants|IOPC1207|26|60.87
+10500|Haybale stacking|HAYBALE|93|29.10
+10502|Video game combos|VIDEO|18|85.19
+10506|Prendonians|PRENDON|12|13.27
+10507|Cheese-rolling World Cup|CHEESE|19|25.66
+10508|Buttons|BTTNS|22|27.08
+10509|Cards|CRDS|512|28.31
+10510|Sorting Machine|SRTMACH|1|50.00
+10514|K12 - Building Construction|KOPC12A|184|11.78
+10515|K12-Combinations|KOPC12B|78|35.02
+10517|K12-Generating Big Numbers II|KOPC12D|20|68.75
+10519|K12-Bored of Suffixes and Prefixes|KOPC12G|22|48.15
+10522|K12-OE Numbers|KOPC12H|36|36.19
+10537|Edit Distance Again|EDIT|214|38.49
+10538|Derp|DERP|25|36.05
+10539|Bunnies|BUNNIES|16|22.94
+10547|Delivery Route|DELIVER|8|25.81
+10565|Alice Sieve|ALICESIE|299|41.25
+10568|Graph Cut|GRAPHCUT|32|27.97
+10570|Longest Common Substring|LONGCS|55|41.78
+10571|Soccer Challenge|SOCCERCH|11|34.09
+10572|Cheating on the contest|CHEATCON|12|6.76
+10573|Problem Offensive Strategy|OFFSTRAT|57|23.58
+10574|Soccer Ceremony|SCCCER|9|56.52
+10575|The Yellow Brick Road|YELBRICK|116|42.29
+10576|Exclusive Security|EXCLSEC|48|20.96
+10579|Desrugenstein|DESRUG|41|50.00
+10581|Ball Stacking Again|BALLSAG|69|31.07
+10582|subarrays|ARRAYSUB|322|28.16
+10585|Searching God|SEAGOD|41|24.38
+10586|Problems in Moria|PROBMOR|26|30.85
+10587|Enemies|ENEM|24|35.29
+10588|Portal|PORTALUN|48|31.77
+10589|King|KING|31|22.78
+10594|Decoding Number Stations with Dr Whooves|PONY2|16|40.00
+10596|Monkey and apples|MON2012|9|24.85
+10606|Balanced Numbers|BALNUM|8|39.47
+10607|Delivery|TWODEL|8|18.52
+10608|Unique Strings|UNICA|6|21.88
+10611|Ranges|RRANGE|20|27.08
+10612|Funny Areas|FUNAREA|20|29.73
+10620|KNJIGE|KNJIGE|109|49.27
+10621|MONO|MONO|10|37.04
+10622|DIFERENCIJA|DIFERENC|30|32.61
+10623|ZNANSTVENIK|ZNANSTVE|45|48.84
+10628|Count on a tree|COT|21|25.15
+10639|The Blind Passenger|MYQ1|252|45.29
+10640|The Wild Wizard|MYQ2|22|34.52
+10641|The Dating Dress Problem|MYQ3|12|31.91
+10643|The Nerd Factor|MYQ5|37|52.83
+10644|Serve The Street|MYQ6|32|31.06
+10645|The Rail Network Renovation|MYQ7|19|55.32
+10646|The National Game|MYQ8|18|43.40
+10647|Divide And Conquer|MYQ9|3|17.65
+10648|DUGDUG|DUGDUG|10|16.67
+10649|Mirror Number|MYQ10|12|21.31
+10657|LOGIC|LGIC|122|59.29
+10667|PASIJANS|FLLM|20|60.00
+10675|GENIJALAC|IWGBST|17|41.46
+10676|0110SS|IWGBS|204|51.31
+10677|Joseph&#8217;s Problem|NAGAY|35|40.94
+10683|DRIVE|BYTESB|1|14.29
+10699|Symmetry|SYM12|8|30.77
+10701|The Lazy Gamer|MYQ11|6|5.13
+10703|HOSTAGES|BYTESH|2|75.00
+10704|The Great Escape|MYQ12|15|36.36
+10707|Count on a tree II|COT2|6|13.33
+10711|VUK|NAGAY1|16|41.03
+10712|Easy Calculation|TRIGALGE|79|38.73
+10725|String Subsequence|STRSEQ|11|25.00
+10730|Michel and the championship|CHAMPS|12|30.77
+10732|Trapezoid|TRAPEZBO|6|28.57
+10738|Ra-One Numbers|RAONE|20|16.02
+10790|G-One Numbers|GONE|18|24.36
+10798|Wachovia Bank|WACHOVIA|130|50.84
+10799|Happiness at the lowest cost|RS2D|2|4.08
+10800|GAME|GAMECG|5|20.53
+10802|Sum of Tetranacci numbers|TETRAHRD|37|46.67
+10809|Unlock it !|DCEPC204|29|35.45
+10810|Its a Murder!|DCEPC206|265|12.58
+10814|Unique Paths|DCEPC202|25|48.57
+10815|Finally a Treat|DCEPC207|115|35.03
+10818|Medium Factorization|FACTCG2|126|10.75
+10819|BF Vector|BFTAB|25|65.22
+10820|Obsession|DCEPC203|2|4.76
+10822|The Prime Minister|DCEPC200|3|13.56
+10833|Counter-intelligence|CONINT|0|0.00
+10841|Supplying the Suppliers|SUPSUP|1|9.09
+10877|Decoys and Diversions|DECOY|0|0.00
+10883|Customs|CUSTOMSL|3|37.50
+10919|I Hate Parenthesis|FERT21_1|7|40.00
+10930|Dixon Dominoes|DIXDOOM|5|25.00
+10931|Online Bridge Searching|ONBRIDGE|1|33.33
+10945|Foodie Golu|DCEPC301|18|29.76
+10958|Vero Dominoes|VERODOOM|144|44.10
+10966|Aritho-geometric Series (AGS)|AGS|22|8.13
+10968|LUCIFER Number|LUCIFER|13|21.67
+11050|R  Numbers|ITRIX12E|26|62.96
+11054|Discords Dilemma |PONY3|2|15.38
+11063|AP - Complete The Series (Easy)|AP2|472|38.41
+11066|AP - Complete The Series v2|AP3|103|11.76
+11090|Large banner|BANNER|5|56.25
+11100|Fun with Fibonacci Series|FIBOFUN|124|17.73
+11102|SelfDescribingSequenceProblem|MAIN12A|84|47.97
+11103|PrimeFactorofLCM|MAIN12B|84|21.21
+11105|Email ID|MAIN12C|7|38.58
+11106|Dice Problem|MAIN12D|201|33.29
+11116|Discord is Cornered|PONY4|8|34.62
+11117|Restacking haybales 2012|RESTACK|19|42.37
+11157|The Great Escape|GREAT_E|6|40.91
+11165|Magic Strawberries|STRAWB|14|17.35
+11175|The Ball Game|IEEEBGAM|115|45.65
+11178|Save money for YTU|MONEYYTU|8|50.00
+11179|Korra in the Spirit World|SPWORLD|9|62.50
+11180|369 Numbers|NUMTSN|15|34.09
+11181|Build the Tower|BUILDTOW|39|43.24
+11198|Ipad Testing|IPAD|19|30.86
+11202|Number Theory|NUMTRY|2|8.16
+11210|Arya and the exponacci|OPC3A|133|36.50
+11244|GP - Complete the Series v1 ()|GP1|26|30.17
+11247|Plus Within a diamond|PWAD|197|67.58
+11267|Arnook Defensive Line|KL11B|12|24.44
+11273|Team Nim|TEAMNIM|8|35.00
+11274|Lights and Switches|LIGHTPZ|4|26.42
+11276|Adventure|ADVNTURE|2|22.73
+11300|Fun with numbers|NUMPLAY|71|35.13
+11321|G-One Sort|GONESORT|28|34.01
+11326|Arithmetic Evaluation|ARTHEVAL|32|51.95
+11333|Vowels|VOWELS|502|70.92
+11334|Lucifer Sort|LUCISORT|0|0.00
+11341|TWIN PRIMES|TWINP|69|28.11
+11342|Here be ducks|DUCKS|193|20.00
+11345|lcm addition|ADDLCM|0|0.00
+11354|Amusing numbers|TSHOW1|174|62.93
+11355|SQUARE TO SQUARE|SQ2SQ|2|36.84
+11364|Home, sweet home 1|HSH1|0|0.00
+11368|Fibonacci brain|TSHOW2|241|43.96
+11371|Answer the boss!|RPLA|15|41.32
+11372|Blueberries|RPLB|38|39.67
+11373|Coke madness|RPLC|170|29.49
+11374|Database|RPLD|115|37.44
+11375|Espionage|RPLE|129|49.51
+11383|Fast Sum of two to an exponent|FAST2|56|30.10
+11384|Zoom Operation|ZOOMOP2|1|6.25
+11386|Recycled Numbers|GCJ2012C|48|27.48
+11391|EASY MATH|EASYMATH|45|26.39
+11395|Dexter vs Mandark|TECHELN3|116|55.33
+11398|Do You know your Algorithms|TECHELN5|218|54.67
+11400|Redoks|REDOKS|40|96.09
+11401|Bazinga!|DCEPC505|23|30.43
+11402|The Indian Connection|DCEPC504|55|55.56
+11403|EASY MATH  2|EASYMAT2|1|5.88
+11404|Save Thy Toys|DCEPC501|32|30.54
+11405|Just Like the Good Old Days|DCEPC502|9|45.83
+11407|Tied Down|TDOWN|1|100.00
+11409|Fibonacci With a Twist|FIBTWIST|48|38.29
+11440|Unlock it ! Part 2|DCEPC604|5|16.28
+11443|Davids Greed|DAVIDG|6|24.39
+11444|MAXOR|MAXOR|2|6.67
+11452|Find New SPOJ Problems|PROBFIND|0|0.00
+11457|New iPad|VUDBOL4|64|68.71
+11458|Ninja|VUDBOL5|5|10.39
+11460|Planning Poker|VUDBOL7|13|45.61
+11461|Book Shelves|SHELF|5|13.16
+11469|Balanced Cow Subsets|SUBSET|4|12.12

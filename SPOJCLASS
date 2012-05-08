@@ -1,0 +1,359 @@
+ABCDEF 	binary search
+ACMAKER 	dp hard
+ACODE 	dp medium
+AE00 	adhoc
+AE1B 	adhoc
+AE2A 	dp trick
+AIBOHP 	dp medium
+AIRLINES 	dp for one case, matrix expo for other
+ALICECUB 	dp or bfs precomputation
+ALL 	bfs nice hard implementation
+ANARC05B 	dp binary search
+ANARC05H 	dp
+ANARC07C 	simulation medium
+ANARC07G 	dp
+ANARC08B 	ad-hoc stupid
+ANARC08E 	dp
+ANARC08F 	shortest path
+ANARC08G 	elementary graph theory
+ANARC08H 	josephsus problem
+ANARC09A 	dp
+ANARC09B 	adhoc
+ANARC09C 	number theory easy
+ANARC09F 	geometry
+ANDROUND 	segment tree
+ANGELS 	Bipartite Matching
+ANTTT 	geometry connected components
+ARDA1 	kmp
+ARITH2 	adhoc
+ARRANGE 	Sorting
+ASSIGN 	dp
+BABTWR 	easy LIS
+BABY 	hard DP, bitmasks
+BINSTIRL 	simple math
+BOBALLS2 	math
+BOOKS1 	Binary Search
+BOTTOM 	Strongly Connected Components
+BRCKTS 	segment tree
+BROKEN 	adhoc
+BRPAR 	math
+BRTREE 	simulation tricky
+BUILDING 	Line Sweep
+BYTESE2 	adhoc
+CATM 	BFS
+CATTLEB 	Computational Geometry, Physics 
+CDOWN 	recursion
+CERC07B 	bitmasks same as DFLOOR
+CERC07K 	bfs nice state
+CFRAC2 	adhoc
+CHASE 	adhoc
+CHMAZE 	BFS nice state
+CISTFILL 	binary search
+CLEANRBT 	BFS then DP, hard
+CLIQSEP 	simple adhoc
+CNTTREE 	dp on tree
+COCONUTS 	maxflow, mincut
+COMPANY 	graph theory remove transitions
+CORNET 	Disjoint Set Data Structure
+COUNT 	dp hard
+COURIER 	dp bitmasks
+CPCRC1C 	Simple dp
+CPRIME 	number theory
+CPU 	adhoc
+CRSCNTRY 	dp very easy
+CSUBSEQS 	dp medium
+CTGAME 	dp
+CTRICK 	Segment Tree
+CUBERT 	newton raphson or binary search
+CVJETICI 	bit
+CYLINDER 	simple math
+CZ_PROB1 	dp easy
+DEADFR 	adhoc
+DEPEND 	topological sort
+DEPOSIT 	math
+DFLOOR 	same as CERC07B
+DISJPATH 	Maximum Flow
+DISQUERY 	Lowest Common Ancestor
+DISTANCE 	adhoc
+DISUBSTR 	Suffix Arrays
+DIV 	number theory
+DIV2 	number theory
+DIVSUM 	number theory precomputation
+DOORSPEN 	geometry convex hull
+DP 	dp
+DQUERY 	segment tree merge sort
+DSUBSEQ 	dp
+EASYPROB 	adhoc
+EDIST 	dp easy
+EDS 	adhoc
+ENCONDIN 	adhoc 
+EPALIN 	KMP, Manacher's
+ETF 	number theory
+EXPEDI 	greedy data-structure
+FACT0 	number theory sieve
+FACT1 	pollard rho
+FACVSPOW 	simple math binary search
+FAKETSP 	beginner rubbish
+FAMILYP 	simulation
+FASTFLOW 	Maximum Flow
+FCANDY 	DP weak test data assume difference doesnt exceed 200
+FCTRL2 	simple math
+FENCE1 	simple math
+FERT21_0 	adhoc big integer easy
+FINDPRM 	number theory sieve dp binary search adhoc
+FNRANK 	number theory inclusion exclusion
+FP 	dp greedy
+FPOLICE 	dp
+FRACTION 	farey sequences
+FREQUENT 	segment trees
+FRQPRIME 	number theory binary search math
+FSEATS 	dp
+FUNPROB 	math
+GCDEX 	number theory
+GEM 	simulation
+GEOPROB 	geometry bigint easy
+GEORGE 	dijkstra nice
+GNY07C 	adhoc
+GNY07D 	adhoc
+GNY07F 	adhoc
+GNY07H 	dp bitmask tricky harder version of BYTESH1, M3TILE
+GNYR09F 	dp easy
+GOALFR 	geometry easy
+GORELIAN 	bfs hard on implementation
+GREED 	Minimum Cost Maximum Flow
+GS 	gaussian elimination
+GSS1 	segment tree easy
+GSS3 	segment tree easy
+GUESSING 	Binary Search
+HAMSTER1 	math trigonometry ternary search
+HANGOVER 	simple math
+HEAPULM 	sorting recursion easy segment trees
+HELLOKIT 	beginner easy
+HELPBOB 	dp bitmask
+HELPR2D2 	segment tree data-structure
+HERDING 	bfs 
+HIKE 	bfs
+HIST2 	dp bitmask
+HISTOGRA 	adhoc
+HS08FOUR 	matrix expo hard
+HS08PAUL 	number theory easy
+IM 	maxflow
+IMAGE 	flood fill add up 4 - neighbours for each cell
+IMPORT 	floyd warshall
+INCARDS 	bfs
+INCPOWK 	number theory adhoc easy
+INCSEQ 	dp + BIT
+INTEGER1 	binary search
+INTERVA2 	sorting datastructure bit
+INUMBER 	bfs
+INVCNT 	bit or merge sort
+INVENT 	disjoint sets adhoc
+JANE 	bfs medium
+JEDNAKOS 	dp
+JOCHEF 	dp
+JRIDE 	adhoc
+KGSS 	segment tree
+KPMATRIX 	dp BIT hard
+KPPOLY 	geometry ternary search
+KSEQ 	math
+LAGRANGE 	adhoc
+LCMSUM 	number theory
+LEGO 	sparse graphs co-ordinate compression connected components
+LIFEGAME 	matrix exponentiation
+LIM 	gaussian elimination
+LINES 	math adhoc
+LSORT 	dp bit
+M00PAIR 	dp
+M3TILE 	dp bitmask harder version of BYTESH1
+MARBLES 	adhoc
+MARTIAN 	dp hard
+MATCHING 	Maximum Matching
+MATGAME 	Grundy numbers
+MATSUM 	2D BIT
+MAWORK 	bfs good state
+MAXSUMSQ 	adhoc data-structure
+MB1 	adhoc number theory
+MBEEWALK 	dp different dx, dy
+MBIPALIN 	adhoc
+MBLAST 	dp easy
+MCHAOS 	bit 
+MCIRGAME 	big int dp catalan numbers google it
+MCOINS 	very easy DP
+MCONVERT 	big integer
+MDIGITS 	adhoc
+MDOLLS 	Greedy
+MELE3 	dijkstra
+MENU 	medium dp
+MEOWIST 	beginner easy sorting
+MFISH 	dp hard
+MIB 	rank of a permutation
+MICEMAZE 	dijkstra / bfs
+MINVEST 	dp knapsack medium
+MIXTURES 	medium dp, see matrix chain multiplication CLRS
+MKBUDGET 	easy dp
+MKJUMPS 	backtracking
+MKLABELS 	math
+MKMONEY 	adhoc
+MKPALS 	adhoc
+MKTHNUM 	segment tree merge sort
+MKUHAR 	simple math binary search hard
+MKWAVES 	brute force
+MLAND 	kruskals ternary search
+MLASERP 	BFS normal
+MMASS 	adhoc string parsin
+MMATRIX 	brute force
+MMAXPER 	dp easy
+MMINPAID 	dp / bfs bitmask
+MNERED 	dp
+MOBIVINA 	maxflow, mincut
+MONODIG 	bfs hard
+MONONUM 	dp
+MORSE 	dp medium
+MOVIE 	math
+MPILOT 	dp easy
+MPOLY 	geometry ternary search
+MREPLBRC 	dp v.hard
+MROADS 	Binary search
+MSAFE 	adhoc data-structure
+MSE06H 	BIT easy
+MSE06I 	Minimum Cost Maximum Flow
+MSE08G 	adhoc precomputation
+MSE08H 	math
+MSKYCODE 	squarefree numbers inclusion-exclusion
+MSTRING 	dp medium
+MTOTALF 	maxflow easy 
+MTREE 	dp on tree
+MUDDY 	Maximum Matching
+MUL2COM 	big integer
+MYSTIC 	math dp
+MZVRK 	adhoc easy
+NDIVPHI 	math number theory
+NETADMIN 	maxflow
+NG0FRCTN 	adhoc
+NGM2 	number theory inclusion exclusion
+NGON 	dp
+NHAY 	KMP
+NICEDAY 	segment tree
+NOCHANGE 	dp hard
+NOTATRI 	binary search
+NUMOFPAL 	Suffix Arrays, Manacher's
+NUMQDW 	matrix exponentiation
+ODDDIV 	number theory precomputation fast IO
+ONEZERO 	bfs simple
+ORDERS 	bit
+PA06ANT 	graph theory matrix exponentiation
+PAIRGRPH 	brute force
+PALIN 	Adhoc
+PARADOX 	graph theory adhoc
+PARTIT 	dp easy
+PARTPALI 	dp
+PARTY 	dp easy
+PATHEADS 	concept of bucket sort and sieve
+PATULJCI 	binary search random
+PDECODE 	permutation exponentiation
+PERIOD 	KMP
+PERMUT1 	dp
+PFDEP 	topological sort
+PHIDIAS 	dp easy
+PHONELST 	sorting
+PHONY 	number theory
+PIE 	binary search easy
+PIGBANK 	dp easy ugly optimisations needed
+PIZZALOC 	bitmasks easy
+PLD 	Suffix Arrays, Manacher's
+PLHOP 	matrix exponentiation
+PON 	miller rabin primality testing
+POTHOLE 	bfs topological sort
+PRHYME 	tries
+PRIME1 	number theory
+PRO 	set
+PT07X 	dp on tree
+PYRA 	adhoc graph theory
+QCJ2 	dp
+QTREE2 	Lowest Common Ancestor
+QUEEN 	hard bfs
+QUERYSTR 	prefix table
+QUEST4 	matching
+RACETIME 	adhoc data-structure
+RAIN3 	dp easy
+RAINBOW 	dp knapsack on components easy
+RATING 	bit
+REC 	big integer math
+RELINETS 	brute force disjoint sets
+REMGAME 	recursion memoisation easy weak test data
+RENT 	dp binary search to convert n^2 to nlogn
+RESN04 	adhoc math
+RIGHTTRI 	binary search
+RLM 	beginner easy rubbish
+ROADNET 	beginner easy
+ROBBERY2 	math adhoc
+ROCK 	easy dp
+RRSCHED 	datastructure BIT efficient simulation
+SAMER08A 	3 dijkstras basic graph theory
+SAMER08C 	dp medium
+SAMER08D 	dp hard
+SAMER08E 	beginner easy
+SAMER08F 	beginner easy
+SAMER08G 	beginner easy
+SCALE 	brute force binary search
+SCAVHUNT 	beginner easy
+SCITIES 	Hungarian Algorithm
+SCUBADIV 	dp easy
+SEQ 	matrix exponentiation recurrence
+SEQ5 	adhoc data-structure
+SEQ6 	math
+SERVICE 	dp
+SETNJA 	adhoc biginteger
+SHOP2 	Maximum Flow
+SHPATH 	dijkstra
+SOLIT 	bfs hard
+SQFREE 	number theory sieve hard inclusion exclusion
+SQRBR 	dp easy
+SSHUFFLE 	dp medium
+STABARDS 	matching
+STABLEMP 	as name suggests 
+STREET 	dp hard
+SUBS 	binary search
+SUBSEQ 	simple datastructure
+SUBST1 	Suffix Arrays
+SUBSUMS 	bitmasks binary search
+SUMFOUR 	binary search easy
+SVADA 	binary search hard
+SWTHIN 	adhoc math
+TAXI 	matching maxflow
+TEM 	dp
+TEMPTISL 	dp easy
+TETRAVEX 	brute force adhoc
+THREECOL 	dp
+TOURIST 	dp hard
+TPERML 	unranking a permutation
+TRAFFICN 	dijkstra easy basic graph theory
+TREASURY 	dp on tree, bignum
+TREE 	combinatrics recursion dp/memoisation big integer
+TREE1 	big int math
+TRGRID 	adhoc
+TRIP 	dp, efficient reconstruction
+TRSTAGE 	dijkstra bitmasks medium
+TRT 	dp
+TTTABLE 	adhoc
+TUTMRBL 	easy number theory
+TWENDS 	dp
+TWINSNOW 	
+TWOPATHS 	dp on tree
+UCI2009B 	number theory easy
+UCI2009D 	backtracking
+UJ 	easy bigint math
+UPSUB 	dp LIS
+VBOSS 	dp hard sorting
+VGCD 	big integer adhoc
+VMILI 	geometry convex hull
+VOCV 	dp on tree, harder version of PT07X
+VONNY 	backtracking
+WEIRDFN 	data-structure
+WIJGT 	geometry dfs
+WORMS 	dp big integer
+WSCIPHER 	adhoc
+XOINC 	dp
+YAPP 	adhoc
+YODA 	dp easy
+YODANESS 	bit or segment tree or merge sort 
