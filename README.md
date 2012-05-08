@@ -1,2 +1,0 @@
-SPOJ-Problem-Selector
-=====================
