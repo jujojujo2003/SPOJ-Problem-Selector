@@ -17,3 +17,8 @@ The third option requires you to enter a difficulty level.
 It pick the problem based on its acceptance level and no of submissions required.
 After solving any spoj problem, you need to rerun the script to update the DB.
 
+
+getspojDB.py gets the list of problems available on SPOJ.pl adn stores it in the file SPOJPROB 
+getuserDB.py gets the activity list of each and every user on SPOJ and stores it in SPOJDIFF! It contains the problem and difficulty level 
+based on each user.This script takes a very long time to complete.
+spojuserdatagetter.py gets the activity of one user!
