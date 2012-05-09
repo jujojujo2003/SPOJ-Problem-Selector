@@ -6,6 +6,7 @@ import re
 import getspojDB
 def getter(username):
   url="http://www.spoj.pl/status/"+username+"/signedlist/"
+  print "Fetching data"
   userpage=urllib.urlopen(url).read().split('\n')
   ACCED={}
   WAED={}
@@ -29,8 +30,7 @@ def getter(username):
            print "Reading Data"
        if "ID" in line and "DATE" in line and  "PROBLEM" in line and  "RESULT" in line and  "TIME" in line:
            enabledata=1
-  for prob in WAED:
-      print "ACCEPTED ",prob," AFTER ",WAED[prob]," tries!"
+  return WAED
            
 if __name__=='__main__':
-  getter("jujojujo_2003")
+  getter("haha")

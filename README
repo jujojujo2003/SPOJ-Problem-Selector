@@ -2,3 +2,18 @@ SPOJ-Problem-Selector
 =====================
 Ever had problem selecting which problem to do on SPOJ.pl??
 Try this tool!
+-------------------------------------------------------------------
+USE
+======================
+Run spojprobchooser.py by typing "./spojprobchooser" in terminal
+Ensure that it has read , write and execute permissions
+Enter you spoj.pl username and press enter
+Now you have 3 option.
+It can pick your next favourite problems based on the types of problems you have solved previously
+and tagging the problems like whether its a Dynamic Programming type, Graph theory, Adhoc ,etc and it picks the
+most suitable problem.
+The second option picks the least suitable problem as thats the area you are weak at and have no experience.
+The third option requires you to enter a difficulty level.
+It pick the problem based on its acceptance level and no of submissions required.
+After solving any spoj problem, you need to rerun the script to update the DB.
+
