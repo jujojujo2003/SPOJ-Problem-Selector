@@ -75,4 +75,4 @@ if(__name__=="__main__"):
    phyfile.close()  
    print "Getting SPOJ Classifier list"
    os.system("rm -rf SPOJCLASS")
-   os.system("wget http://web.iiit.ac.in/~srinivasan.l/extras/SPOJCLASS")
+   os.system("wget http://s-ln.in/extras/spojps/SPOJCLASS")
